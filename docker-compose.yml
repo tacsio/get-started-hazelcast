@@ -15,6 +15,9 @@ services:
       - HZ_NETWORK_RESTAPI_ENABLED=true
     ports:
       - "5701:5701"
+    networks:
+      hazelnet:
+        ipv4_address: 10.0.0.2
 
   hazelcast_2:
     container_name: hz2
@@ -31,12 +34,25 @@ services:
       - HZ_NETWORK_RESTAPI_ENABLED=true
     ports:
       - "5702:5701"
+    networks:
+      - hazelnet
   
   management:
     image: hazelcast/management-center:5.0.4
+    depends_on: [hazelcast_1, hazelcast_2]
     environment:
       - MC_HTTP_PORT=8080
       - MC_ADMIN_USER=admin
       - MC_ADMIN_PASSWORD=password12
     ports:
       - "8080:8080"
+    networks:
+      - hazelnet
+
+
+networks:
+  hazelnet:
+    ipam:
+      config:
+        - subnet: 10.0.0.1/8
+    

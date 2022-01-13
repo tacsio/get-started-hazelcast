@@ -4,5 +4,8 @@ hazelcast-management:
 hazelcast-full:
 	COMPOSE_PROFILES=full docker-compose up -d
 
+stop:
+	COMPOSE_PROFILES=full docker-compose down
+
 clean:
-	docker-compose down -v
+	COMPOSE_PROFILES=full docker-compose down -v
