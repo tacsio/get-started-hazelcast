@@ -1,0 +1,1912 @@
+1;Carlsen, Magnus;2865;2847;2832;31
+2;Firouzja, Alireza;2804;2670;2791;18
+3;Ding Liren;2799;2836;2788;29
+4;Caruana, Fabiano;2792;2784;2744;29
+5;Nepomniachtchi, Ian;2773;2821;2740;31
+6;Aronian, Levon;2772;2719;2773;39
+7;Giri, Anish;2772;2744;2766;27
+8;So, Wesley;2772;2782;2814;28
+9;Mamedyarov, Shakhriyar;2767;2722;2769;36
+10;Grischuk, Alexander;2764;2759;2762;38
+11;Rapport, Richard;2763;2779;2646;25
+12;Vachier-Lagrave, Maxime;2761;2743;2813;31
+13;Duda, Jan-Krzysztof;2760;2806;2760;23
+14;Radjabov, Teimour;2753;2747;2705;34
+15;Dominguez Perez, Leinier;2752;2722;2728;38
+16;Anand, Viswanathan;2751;2675;2758;52
+17;Wang Hao;2744;2750;2712;32
+18;Karjakin, Sergey;2743;2736;2611;31
+19;Vitiugov, Nikita;2736;2580;2673;34
+20;Topalov, Veselin;2730;2627;2667;46
+21;Wei Yi;2729;2752;2686;22
+22;Vidit, Santosh Gujrathi;2727;2617;2654;27
+23;Andreikin, Dmitry;2724;2692;2736;31
+24;Dubov, Daniil;2720;2712;2791;25
+25;Harikrishna, Pentala;2717;2624;2574;35
+26;Esipenko, Andrey;2714;2679;2617;19
+27;Yu Yangyi;2713;2738;2808;27
+28;Le Quang Liem;2709;2660;2686;30
+29;Shankland, Sam;2708;2625;2618;30
+30;Tomashevsky, Evgeny;2708;2631;2695;34
+31;Fedoseev, Vladimir;2704;2739;2726;26
+32;Shirov, Alexei;2704;2630;2645;49
+33;Vallejo Pons, Francisco;2704;2682;2644;39
+34;Alekseenko, Kirill;2702;2639;2682;24
+35;Van Foreest, Jorden;2702;2645;2609;22
+36;Maghsoodloo, Parham;2701;2631;2630;21
+37;Artemiev, Vladislav;2700;2682;2799;23
+38;Bu Xiangzhi;2700;2642;2760;36
+39;Korobov, Anton;2699;2677;2633;36
+40;Adams, Michael;2698;2651;2742;50
+41;Navara, David;2697;2701;2686;36
+42;Sadler, Matthew D;2694;2673;2646;47
+43;Anton Guijarro, David;2691;2633;2584;26
+44;Salem, A.R. Saleh;2690;2621;2657;29
+45;Wojtaszek, Radoslaw;2686;2702;2610;34
+46;Xiong, Jeffery;2686;2729;2727;21
+47;Sarana, Alexey;2685;2667;2665;21
+48;Sevian, Samuel;2684;2586;2698;21
+49;Kryvoruchko, Yuriy;2683;2697;2594;35
+50;Eljanov, Pavel;2683;2653;2601;38
+51;Svidler, Peter;2683;2752;2725;45
+52;Jakovenko, Dmitry;2682;2684;2625;38
+53;Predke, Alexandr;2682;2601;2614;28
+54;Volokitin, Andrei;2681;2659;2505;35
+55;Amin, Bassem;2681;2538;2699;33
+56;Oparin, Grigoriy;2681;2634;2685;24
+57;Sargissian, Gabriel;2681;2639;2561;38
+58;Sjugirov, Sanan;2680;2578;2602;28
+59;Deac, Bogdan-Daniel;2679;2556;2646;20
+60;Li Chao;2679;2645;2693;32
+61;Almasi, Zoltan;2678;2599;2585;45
+62;Ivanchuk, Vasyl;2678;2686;2710;52
+63;Robson, Ray;2676;2605;2683;27
+64;Saric, Ivan;2674;2645;2550;31
+65;Matlakov, Maxim;2674;2650;2661;30
+66;Nyzhnyk, Illya;2674;2658;2694;25
+67;Grandelius, Nils;2672;2652;2617;28
+68;Jones, Gawain C B;2671;2630;2657;34
+69;Areshchenko, Alexander;2670;2588;2627;35
+70;Gelfand, Boris;2669;2635;2649;53
+71;Kovalenko, Igor;2668;2620;2560;33
+72;Ni Hua;2668;2647;2579;38
+73;Cheparinov, Ivan;2664;2652;2622;35
+74;Keymer, Vincent;2664;2542;2557;17
+75;Leko, Peter;2663;2710;2738;42
+76;Nihal Sarin;2662;2604;2705;17
+77;Guseinov, Gadir;2661;2692;2581;35
+78;Najer, Evgeniy;2661;2590;2562;44
+79;Berkes, Ferenc;2660;2637;2676;36
+80;Tari, Aryan;2660;2531;2567;22
+81;Inarkiev, Ernesto;2659;2678;2639;36
+82;Kasimdzhanov, Rustam;2659;2698;2681;42
+83;Hou Yifan;2658;2621;2601;27
+84;Narayanan.S.L;2658;2546;2494;24
+85;Kamsky, Gata;2657;2717;2645;47
+86;Ragger, Markus;2656;2630;2541;33
+87;Mamedov R;2656;2584;2666;33
+88;Swiercz, Dariusz;2656;2649;2627;27
+89;Demchenko, Anton;2654;2547;2539;34
+90;Shevchenko, Kirill;2652;2573;2624;19
+91;Gledura, Benjamin;2652;2619;2326;22
+92;Malakhov, Vladimir;2652;2670;2654;41
+93;Nisipeanu, Liviu-Dieter;2652;2636;2637;45
+94;Cori J;2650;2604;2588;26
+95;Sasikiran, Krishnan;2650;2577;2572;41
+96;Melkumyan, Hrant;2649;2686;2604;32
+97;Naiditsch, Arkadij;2648;2571;2577;36
+98;Adhiban, B.;2648;2548;2648;29
+99;McShane, Luke J;2647;2702;2591;38
+100;Grigoryan, Karen H.;2646;2660;2617;26
+101;Howell, David W L;2646;2604;2559;31
+102;Ma, Qun;2645;2570;2602;31
+103;Niemann, Hans Moke;2645;2529;2636;18
+104;Ipatov, Alexander;2644;2584;2534;28
+105;Mareco, Sandro;2643;2553;2546;34
+106;Nabaty, Tamir;2643;2646;2627;30
+107;Gustafsson, Jan;2643;2641;2548;43
+108;Hovhannisyan, Robert;2643;2630;2570;30
+109;Tabatabaei, M. Amin;2643;2425;2585;20
+110;Bacrot, Etienne;2642;2720;2673;38
+111;Bluebaum, Matthias;2642;2587;2550;24
+112;Socko B;2642;2577;2646;43
+113;Abdusattorov, Nodirbek;2641;2670;2663;17
+114;Piorun, Kacper;2641;2524;2571;30
+115;Ponkratov, Pavel;2641;2574;2487;33
+116;Onischuk A;2640;2693;2650;46
+117;Rakhmanov, Aleksandr;2640;2633;2500;32
+118;Kozul, Zdenko;2639;2526;2600;55
+119;Kuzubov, Yuriy;2639;2643;2548;31
+120;Karthikeyan, Murali;2637;2419;2579;23
+121;Santos Latasa, Jaime;2637;2596;2617;25
+122;Rublevsky, Sergei;2637;2661;2608;47
+123;Svane, Rasmus;2637;2651;2645;24
+124;Ter-Sahakyan, Samvel;2637;2530;2592;29
+125;Ponomariov, Ruslan;2636;2673;2605;38
+126;Bruzon Batista, Lazaro;2636;2619;2709;39
+127;Donchenko, Alexander;2636;2571;2539;23
+128;Laznicka, Viktor;2634;2639;2540;34
+129;Papaioannou, Ioannis;2634;2614;2666;45
+130;Lenic, Luka;2634;2666;2659;33
+131;Riazantsev, Alexander;2634;2577;2595;36
+132;Motylev, Alexander;2633;2701;2470;42
+133;Short, Nigel D;2633;2537;2619;56
+134;Erigaisi Arjun;2632;2450;2745;18
+135;Lagarde, Maxime;2632;2688;2622;27
+136;Bauer, Christian;2631;2613;2727;45
+137;Chigaev, Maksim;2631;2594;2502;25
+138;Bareev, Evgeny;2631;2659;2678;55
+139;Jumabayev, Rinat;2631;2534;2561;32
+140;Meier, Georg;2631;2643;2545;34
+141;Yilmaz, Mustafa;2631;2502;2568;30
+142;Abasov, Nijat;2630;2567;2528;26
+143;Fressinet, Laurent;2630;2676;2677;40
+144;Moranda, Wojciech;2630;2575;2613;33
+145;Moussard, Jules;2630;2666;2557;26
+146;Yakubboev, Nodirbek;2630;2425;2470;19
+147;Popov, Ivan;2629;2616;2578;31
+148;Gupta, Abhijeet;2628;2551;2549;32
+149;Landa, Konstantin;2628;2591;2553;50
+150;Sargsyan S;2628;2477;2600;19
+151;Sutovsky, Emil;2628;2598;2516;44
+152;Ganguly, Surya Shekhar;2627;2646;2531;38
+153;Fridman, Daniel;2626;2582;2514;45
+154;Markus, Robert;2625;2625;2632;38
+155;Pichot, Alan;2625;2525;2543;24
+156;Dreev, Aleksey;2623;2589;2636;52
+157;Kovalev V;2623;2505;2530;28
+158;Zherebukh, Yaroslav;2623;2620;2520;29
+159;Lenderman, Aleksandr;2622;2646;2651;32
+160;Amonatov, Farrukh;2622;2671;2576;43
+161;Kollars, Dmitrij;2622;2455;2584;23
+162;L'Ami E;2622;2647;2676;36
+163;Idani, Pouya;2621;2509;2610;27
+164;Martirosyan, Haik M.;2621;2478;2735;21
+165;Vocaturo, Daniele;2621;2584;2565;33
+166;Henriquez Villagra, Cristobal;2620;2568;2556;26
+167;Lupulescu, Constantin;2620;2623;2557;37
+168;Petrosyan, Manuel;2620;2547;2592;23
+169;Shtembuliak, Evgeny;2620;2444;2504;23
+170;Bok, Benjamin;2619;2608;2658;26
+171;Zhao, Jun;2619;2638;2547;36
+172;Mastrovasilis, Dimitrios;2618;2568;2597;39
+173;Nielsen, Peter Heine;2618;2669;2546;48
+174;Paravyan, David;2617;2636;2569;23
+175;Bartel, Mateusz;2616;2497;2526;37
+176;Khismatullin, Denis;2616;2523;2543;37
+177;Lu Shanglei;2616;2613;2646;26
+178;Naroditsky, Daniel;2616;2639;2608;26
+179;Sadhwani, Raunak;2616;2524;2616;16
+180;Delgado Ramirez, Neuris;2615;2669;2622;40
+181;Antipov, Mikhail Al.;2615;2593;2512;24
+182;Durarbayli, Vasif;2615;2473;2528;30
+183;Grachev, Boris;2615;2656;2555;35
+184;Khairullin, Ildar;2615;2671;2657;31
+185;Martinez Alcantara, Jose Eduardo;2615;2645;2690;22
+186;Smirin, Ilia;2614;2587;2499;53
+187;Akopian, Vladimir;2614;2668;2641;50
+188;Gukesh D;2614;2223;2598;15
+189;Nguyen Thai;2613;2462;2483;20
+190;Erdos, Viktor;2613;2511;2555;35
+191;Hammer, Jon Ludvig;2613;2647;2607;31
+192;Illescas Cordoba, Miguel;2613;2612;-1;57
+193;Onischuk V;2612;2661;2642;30
+194;Zilka, Stepan;2612;2430;2446;34
+195;Praggnanandhaa R;2612;1927;2599;16
+196;Van Wely, Loek;2612;2552;2545;49
+197;Aravindh, Chithambaram VR.;2611;2572;2561;23
+198;Huschenbeth, Niclas;2611;2572;2605;30
+199;Salgado Lopez, Ivan;2611;2550;2605;30
+200;Movsesian, Sergei;2610;2616;2584;43
+201;Goryachkina, Aleksandra;2610;2473;2426;23
+202;Sethuraman, S.P.;2609;2556;2473;28
+203;Sindarov, Javokhir;2609;2425;2630;16
+204;Alterman, Boris;2608;2601;-1;52
+205;Ivic, Velimir;2607;2437;2610;19
+206;Warmerdam, Max;2607;2412;2537;22
+207;Brkic, Ante;2607;2597;2602;34
+208;Pashikian, Arman;2606;2585;2536;35
+209;Fedorchuk, Sergey A.;2605;2552;2534;40
+210;Zhou Jianchao;2605;2570;2478;33
+211;Indjic, Aleksandar;2604;2516;2616;26
+212;Bortnyk O;2604;2643;2723;25
+213;Mamedov N;2604;2624;2645;36
+214;Lysyj, Igor;2603;2601;2611;35
+215;Sakaev, Konstantin;2603;2510;2632;47
+216;Moiseenko, Alexander;2602;2575;2577;41
+217;Gharamian, Tigran;2602;2650;2660;37
+218;Hakobyan, Aram;2602;2476;2557;20
+219;Izoria, Zviad;2602;2579;2626;38
+220;Milov, Vadim;2602;2635;2519;49
+221;Puranik, Abhimanyu;2601;2550;2520;22
+222;Baramidze, David;2601;-1;-1;34
+223;Sanal, Vahap;2601;2539;2603;24
+224;Basso, Pier Luigi;2600;2458;2381;25
+225;Akobian, Varuzhan;2600;2639;2634;38
+226;Azarov, Sergei;2600;2580;2494;39
+227;Quesada Perez, Yuniesky;2600;2622;2622;38
+228;Smirnov A;2600;2367;2647;20
+229;Vaibhav, Suri;2600;2543;2381;25
+230;Ivanisevic, Ivan;2599;2567;2495;44
+231;Zvjaginsev, Vadim;2599;2488;2601;45
+232;Banusz, Tamas;2598;2554;2602;33
+233;Kravtsiv, Martyn;2598;2675;2694;31
+234;Zubov, Alexander;2598;2688;2685;38
+235;Efimenko, Zahar;2597;2607;2528;36
+236;Gozzoli, Yannick;2597;2625;2609;38
+237;Liang, Awonder;2597;2397;2379;18
+238;Vovk, Andriy;2597;2538;2535;30
+239;Zeng, Chongsheng;2597;2499;2376;29
+240;Santos Ruiz, Miguel;2596;2486;2486;23
+241;Adly, Ahmed;2596;2546;2644;34
+242;Dautov, Rustem;2596;-1;2581;57
+243;Kobalia, Mikhail;2596;2505;2667;43
+244;Iturrizaga Bonelli, Eduardo;2595;2634;2646;32
+245;Bachmann, Axel;2594;2618;2642;32
+246;Bai, Jinshi;2593;2492;2516;23
+247;Thybo, Jesper Sondergaard;2592;2404;2316;23
+248;Acs, Peter;2591;2536;-1;41
+249;Rodshtein, Maxim;2591;2624;2555;32
+250;Van den Doel, Erik;2591;2524;2468;43
+251;Edouard, Romain;2590;2623;2521;31
+252;Pechac, Jergus;2590;2420;2371;21
+253;Bernadskiy, Vitaliy;2589;2594;2473;27
+254;Stevic, Hrvoje;2589;2577;2568;42
+255;Alekseev, Evgeny;2589;2620;2589;36
+256;Baklan, Vladimir;2589;2640;2610;43
+257;Gabuzyan, Hovhannes;2589;2465;2449;27
+258;Gajewski, Grzegorz;2589;2469;2547;36
+259;Moroni, Luca Jr;2588;2512;2573;22
+260;Banikas, Hristos;2588;2615;2601;43
+261;Jobava, Baadur;2588;2664;2617;38
+262;Sokolov I;2588;2626;2526;53
+263;Wen, Yang;2588;2562;2596;34
+264;Braun, Arik;2587;2611;2535;34
+265;Mchedlishvili, Mikheil;2587;2583;2576;43
+266;Kantor, Gergely;2586;2481;2536;23
+267;Bjerre, Jonas Buhl;2586;2355;2312;17
+268;Koneru, Humpy;2586;2467;2472;34
+269;Peralta, Fernando;2585;2613;2568;43
+270;Safarli, Eltaj;2585;2650;2634;29
+271;Aryan Chopra;2585;-1;-1;21
+272;Iordachescu, Viorel;2585;2586;2537;44
+273;Predojevic, Borki;2585;2587;2632;34
+274;Christiansen, Johan-Sebastian;2584;2512;2513;23
+275;Kraemer, Martin;2584;2527;2482;35
+276;Bindrich, Falko;2584;2548;2566;32
+277;Oleksiyenko, Mykhaylo;2584;2523;2552;36
+278;Tomczak, Jacek;2584;2533;2598;32
+279;Wagner, Dennis;2584;2454;2355;25
+280;Cornette, Matthieu;2583;2546;2500;37
+281;Bogner, Sebastian;2582;2552;2500;31
+282;Goganov, Aleksey;2582;2555;2550;31
+283;Studer, Noel;2582;2422;2450;26
+284;Heimann, Andreas;2581;2538;2502;30
+285;Cruz, Cristhian;2581;2516;2502;30
+286;Roiz, Michael;2581;2530;2593;38
+287;Shimanov, Aleksandr;2581;2616;2636;29
+288;Supi, Luis Paulo;2581;2513;2369;26
+289;Dragun, Kamil;2579;2553;2552;27
+290;Hera, Imre Jr.;2579;2582;2598;36
+291;Gurevich, Mikhail;2579;2562;2610;63
+292;Asadli, Vugar;2579;2396;2635;20
+293;Li, Di;2579;2381;2445;23
+294;Pantsulaia, Levan;2579;2522;2538;35
+295;Papp, Gabor;2578;2540;2587;35
+296;Balog, Imre;2578;2619;2596;30
+297;Andriasian, Zaven;2578;2624;2646;32
+298;Can, Emre;2578;2541;2503;32
+299;Reinderman, Dimitri;2578;-1;2552;50
+300;Shomoev, Anton;2578;2509;2499;41
+301;Borisek, Jure;2577;2552;2561;36
+302;Christiansen, Larry;2577;-1;-1;66
+303;Kovchan, Alexander;2577;2469;2451;39
+304;Theodorou, Nikolas;2577;2543;2472;22
+305;Kokarev, Dmitry;2576;2546;2595;39
+306;Krasenkow, Michal;2576;2413;2375;58
+307;Kuybokarov, Temur;2576;2134;2432;22
+308;Tarlev, Konstantin;2576;2576;2536;35
+309;Michalik, Peter;2575;2526;2607;31
+310;Parligras, Mircea-Emilian;2575;2498;2510;41
+311;Yuffa, Daniil;2574;2525;2533;25
+312;Timofeev, Artyom;2574;2542;2583;37
+313;Balogh, Csaba;2574;2618;2654;34
+314;Neiksans, Arturs;2574;2555;2447;38
+315;Huebner, Robert;2574;2575;-1;74
+316;Saric, Ibro;2574;2568;2518;40
+317;Fier, Alexandr;2573;2455;2569;34
+318;Gagunashvili, Merab;2573;2492;2579;37
+319;Gareyev, Timur;2573;2592;2586;33
+320;Nyback, Tomi;2573;2576;-1;37
+321;Petrosian, Tigran L.;2573;2623;2626;37
+322;Ramirez, Alejandro;2573;2579;2694;33
+323;Felgaer, Ruben;2572;2534;2493;41
+324;Feller, Sebastien;2572;2622;2503;31
+325;Kadric, Denis;2572;2481;2588;27
+326;Lintchevski, Daniil;2571;2525;2583;31
+327;Bocharov I;2571;2570;2620;32
+328;Potkin, Vladimir;2571;2547;2430;39
+329;Prohaszka, Peter;2570;2514;2626;30
+330;Hracek, Zbynek;2570;2559;2534;52
+331;Andersen, Mads;2570;2516;2390;27
+332;Ibarra Jerez, Jose Carlos;2570;2567;2626;36
+333;Alonso Rosell, Alvar;2570;2517;2518;30
+334;Hawkins, Jonathan;2570;2579;2500;39
+335;Baryshpolets, Andrey;2569;2479;2532;31
+336;Buhmann, Rainer;2569;2616;2620;41
+337;Perez Candelario, Manuel;2569;2490;2472;39
+338;Rambaldi, Francesco;2569;2487;2509;23
+339;Postny, Evgeny;2568;2453;2483;40
+340;Miton, Kamil;2568;2544;2602;37
+341;Ovsejevitsch, Sergei;2568;2494;2470;45
+342;Agrest, Evgenij;2568;2563;2574;56
+343;Dziuba, Marcin;2568;2410;2468;39
+344;Quesada Perez, Yasser;2568;2438;2420;30
+345;Kryakvin, Dmitry;2567;2416;2372;38
+346;Albornoz Cabrera, Carlos Daniel;2567;-1;2490;22
+347;Burke, John M;2567;-1;-1;21
+348;Tiviakov, Sergei;2567;2602;2665;48
+349;Flores, Diego;2566;2578;2596;40
+350;Paichadze, Luka;2566;2447;2537;31
+351;Romanov, Evgeny;2566;2482;2430;34
+352;Pruijssers, Roeland;2565;-1;2545;33
+353;Kempinski, Robert;2565;2536;2608;45
+354;Rasmussen, Allan Stig;2565;2503;2454;39
+355;Markos, Jan;2565;2541;-1;37
+356;Turov, Maxim;2565;2568;2439;42
+357;Stocek, Jiri;2564;2529;2384;45
+358;Heberla, Bartlomiej;2564;2472;2328;37
+359;Engel, Luis;2564;2279;2417;19
+360;Georgiev, Kiril;2564;2643;2539;56
+361;Hernandez Guerrero, Gilberto;2564;2536;2529;52
+362;Schroeder, Jan-Christian;2564;2404;2530;24
+363;Xu, Xiangyu;2564;2527;2466;23
+364;Michiels, Bart;2563;2550;-1;36
+365;Demidov, Mikhail;2562;2525;2525;29
+366;Georgiadis, Nico;2562;2494;2428;26
+367;Graf, Alexander;2562;-1;-1;60
+368;Mekhitarian, Krikor Sevag;2562;2586;2598;36
+369;Sviridov, Valery;2562;2507;2454;31
+370;Tristan, Leonardo;2561;2529;2404;33
+371;Antal, Gergely;2561;2496;2428;37
+372;Meshkovs, Nikita;2561;2536;2506;28
+373;Mikhalevski, Victor;2561;2453;2495;50
+374;Babula, Vlastimil;2561;2541;2447;49
+375;Smeets, Jan;2561;-1;2586;37
+376;Solodovnichenko, Yuri;2561;2430;2448;44
+377;Ju Wenjun;2560;2610;2536;30
+378;Kuljasevic, Davorin;2560;2549;2481;36
+379;David, Alberto;2559;2579;2548;52
+380;Livaic, Leon;2559;2357;2540;22
+381;Petrov, Nikita;2559;2507;2529;26
+382;Gordievsky, Dmitry;2559;2427;2546;26
+383;Jussupow, Artur;2559;2520;2500;62
+384;Vuckovic, Bojan;2559;2570;2478;42
+385;Forcen Esteban, Daniel;2558;2514;2538;28
+386;Guliyev, Namig;2558;2517;2487;48
+387;Agdestein, Simen;2557;2522;2591;54
+388;Jojua, Davit;2557;2519;2500;33
+389;Laurusas, Tomas;2557;2462;2429;26
+390;Pridorozhni, Aleksei;2556;2526;2581;40
+391;Kaidanov, Gregory;2556;-1;-1;63
+392;Afanasiev, Nikita;2555;2615;2564;22
+393;Pelletier, Yannick;2555;2643;-1;46
+394;Kazhgaleyev, Murtas;2554;2496;2505;48
+395;Martinovic, Sasa;2554;2572;2469;31
+1;Perez Ponsa, Federico;2553;2621;2672;28
+2;Sychev, Klementy;2553;2489;2564;25
+3;Vovk, Yuri;2553;2559;2477;33
+4;Dastan, Muhammed Batuhan;2553;-1;2410;25
+5;El Debs, Felipe de Cresce;2553;2538;2564;37
+6;Holt, Conrad;2553;2548;2586;29
+7;Narayanan, Srinath;2553;2518;2472;28
+8;Urkedal, Frode Olav Olsen;2553;2493;2472;29
+9;Cuenca Jimenez, Jose Fernando;2552;2419;2344;35
+10;Fedorov, Alexei;2552;2571;2521;50
+11;Harutyunyan, Tigran K.;2552;2409;2437;25
+12;Vakhidov, Jakhongir;2552;2528;2544;27
+13;Mista, Aleksander;2551;2514;2481;39
+14;Novikov, Igor;2551;-1;-1;60
+15;Cheng, Bobby;2550;2379;2453;25
+16;Lagno, Kateryna;2550;2531;2522;32
+17;Spoelman, Wouter;2550;-1;2534;32
+18;Vavulin, Maxim;2550;2479;2544;24
+19;Werle, Jan;2550;2523;-1;38
+20;Arutinian, David;2549;2496;2525;38
+21;Rychagov, Andrey;2549;2479;2500;43
+22;Xu, Yinglun;2549;2580;2544;26
+23;Lalith Babu M R;2548;2550;2551;29
+24;Plat, Vojtech;2548;2541;2484;27
+25;Gretarsson, Hjorvar Steinn;2548;2552;2651;28
+26;Iskandarov, Misratdin;2548;2364;2385;27
+27;Megaranto, Susanto;2547;2530;2644;34
+28;Mihok, Oliver;2547;2483;2376;29
+29;Ruck, Robert;2547;2466;2568;45
+30;Petrov, Martin;2547;2440;2343;22
+31;Sosa, Tomas;2546;2575;2506;24
+32;Grigoriants, Sergey;2546;2528;2502;38
+33;Pert, Nicholas;2546;2600;2536;41
+34;Pultinevicius, Paulius;2546;2523;2413;21
+35;Stukopin, Andrey;2546;2561;2450;28
+36;Aczel, Gergely;2545;2476;2386;31
+37;Kunin, Vitaly;2545;2516;2300;39
+38;Jankovic, Alojzije;2545;2501;2556;39
+39;Gonzalez Zamora, Juan Carlos;2544;2496;2535;54
+40;Ziska, Helgi Dam;2544;2573;2581;31
+41;Kelires, Andreas;2543;2062;2110;23
+42;Obolenskikh, Dmitry;2543;2646;2512;36
+43;Steinberg, Nitzan;2543;2505;2440;24
+44;Sonis, Francesco;2542;2445;2373;19
+45;Gulko, Boris;2542;2507;-1;75
+46;Kharitonov, Alexandr;2542;2573;2465;36
+47;Lampert, Jonas;2542;-1;2482;25
+48;Moiseenko, Vadim;2542;2528;2478;28
+49;Teclaf, Pawel;2542;2387;2538;18
+50;Fontaine, Robert;2541;-1;-1;42
+51;Boruchovsky, Avital;2541;2504;2469;25
+52;Ghosh, Diptayan;2541;2466;2534;24
+53;Maze, Sebastien;2541;2574;2462;38
+54;Nikolic, Predrag;2541;2658;2550;61
+55;Shariyazdanov, Andrey;2541;2360;2407;46
+56;Iniyan, P;2540;2295;2450;20
+57;Moradiabadi, Elshan;2540;2566;2550;37
+58;Prusikin, Michael;2540;2458;2538;44
+59;Khegay, Dmitriy;2539;2515;2457;25
+60;Van Foreest L;2539;2390;2509;21
+61;Iljiushenok, Ilia;2539;2536;2578;29
+62;Perunovic, Milos;2539;2587;2547;38
+63;Gumularz, Szymon;2539;2485;2397;21
+64;Handke, Florian, Dr.;2539;2514;2511;40
+65;Huzman, Alexander;2539;2500;2480;60
+66;Muzychuk M;2539;2477;2328;29
+67;Ali Marandi, Cemil Can;2538;2553;2432;24
+68;Dorfman, Iossif;2538;-1;2514;69
+69;Lomasov, Semyon;2538;2576;2445;20
+70;Skoberne, Jure;2538;2430;2559;35
+71;Rozentalis, Eduardas;2537;2462;2488;59
+72;Hungaski, Robert;2537;2481;2469;35
+73;Corrales Jimenez, Fidel;2537;2516;2541;35
+74;Diamant, Andre;2537;2439;2468;32
+75;Rozum, Ivan;2537;2546;2546;31
+76;Lutz, Christopher;2537;-1;-1;51
+77;Mons, Leon;2537;-1;2492;27
+78;Pavlidis, Antonios;2537;2614;2613;29
+79;Popov, Valerij;2537;2521;2523;48
+80;Tregubov, Pavel V.;2537;2593;2341;51
+81;Vorobiov, Evgeny E.;2537;2475;2476;46
+82;Nikolaidis, Ioannis;2536;2535;2513;51
+83;Vazquez, Guillermo;2536;2466;2536;25
+84;Batchuluun, Tsegmed;2536;2445;2406;35
+85;Blomqvist, Erik;2536;2514;2423;32
+86;Hamdouchi, Hicham;2536;2524;2490;50
+87;Mendonca, Leon Luke;2536;1391;2152;16
+88;Obregon Rivero, Juan Carlos;2536;2519;2537;33
+89;Sorokin, Aleksey;2536;2561;2476;22
+90;Vokhidov, Shamsiddin;2536;2504;2611;20
+91;Sengupta, Deep;2535;2438;2347;34
+92;Almeida Quintana, Omar;2535;2489;2549;41
+93;Dragnev, Valentin;2535;2378;2447;23
+94;Lei Tingjie;2535;2527;2530;24
+95;Savchenko, Boris;2535;2547;2512;35
+96;Steingrimsson, Hedinn;2535;2559;2590;47
+97;Warakomski, Tomasz;2535;2537;2434;33
+98;Mastrovasilis, Athanasios;2534;2530;2535;43
+99;Tukhaev, Adam;2534;2507;2510;34
+100;Jacobson, Brandon;2533;2351;2362;19
+101;Tsydypov, Zhamsaran;2533;2587;2614;25
+102;Ibragimov, Ildar;2533;2364;2332;55
+103;Timman, Jan H;2533;2472;2501;71
+104;Kourkoulos-Arditis, Stamatis;2532;2324;2357;24
+105;Arjun Kalyan;2532;2334;2321;20
+106;Krejci, Jan;2532;2479;2399;30
+107;Dardha, Daniel;2532;2481;2489;17
+108;Berg, Emanuel;2532;2570;2502;41
+109;Ernst, Sipke;2532;2514;2436;43
+110;Nagy, Gabor;2531;2523;2534;28
+111;Krysa, Leandro;2531;2539;2490;30
+112;Zelcic, Robert;2531;2490;2497;57
+113;Zakhartsov, Vladimir;2531;2479;2432;25
+114;Checa, Nicolas;2531;2272;2526;21
+115;Dzagnidze, Nana;2531;2463;2367;35
+116;Markowski, Tomasz;2531;2562;2563;47
+117;Muzychuk A;2531;2458;2460;31
+118;Ortiz Suarez, Isan Reynaldo;2531;2568;2539;37
+119;Rombaldoni, Axel;2531;2488;2466;30
+120;Gazik, Viktor;2530;2465;2555;21
+121;Korpa, Bence;2530;2425;2502;24
+122;Suleymanli, Aydin;2530;2297;2529;17
+123;Noe, Christopher;2530;2427;2533;26
+124;Liu, Yan;2530;2427;2387;22
+125;Margvelashvili, Giorgi;2530;-1;2549;32
+126;Matsenko, Sergei;2530;2505;2481;32
+127;Jovanovic, Zoran;2529;2564;2646;42
+128;Hauchard, Arnaud;2529;2533;-1;51
+129;Janssen, Ruud;2529;-1;2455;43
+130;Sturua, Zurab;2529;2498;2522;63
+131;Vazquez Igarza, Renier;2528;2569;2580;43
+132;Aroshidze, Levan;2528;2521;2533;37
+133;Hansen, Sune Berg;2528;2568;-1;51
+134;Cordova, Emilio;2528;2610;2607;30
+135;Mozharov, Mikhail;2528;2462;2305;32
+136;Novikov, Stanislav;2528;2403;2399;37
+137;Pinter, Jozsef;2528;-1;-1;69
+138;Shyam, Sundar M.;2528;2464;2484;30
+139;Zanan, Evgeny;2528;2402;2426;24
+140;Belous, Vladimir;2527;2623;2534;28
+141;Abbasov, Farid;2527;-1;-1;43
+142;Halkias, Stelios;2527;2536;2453;41
+143;Jianu, Vlad-Cristian;2527;2569;2506;38
+144;Kvon, Andrey;2527;2485;2458;33
+145;Fodor, Tamas Jr.;2526;2469;2504;31
+146;Khenkin, Igor;2526;2518;2621;53
+147;Kriebel, Tadeas;2526;2432;2437;27
+148;Tan, Justin;2526;2260;2550;25
+149;Yakovich, Yuri;2526;2496;2403;60
+150;Yemelin, Vasily;2526;2511;2456;46
+151;Iermito, Sebastian;2525;2427;2465;29
+152;Nenezic, Marko;2525;2523;2484;27
+153;Danin, Alexandre;2525;2455;2573;36
+154;Garcia Pantoja, Roberto;2525;2491;2538;30
+155;Janik, Igor;2525;2456;2437;22
+156;Pavasovic, Dusko;2525;-1;2568;46
+157;Sadzikowski, Daniel;2525;2375;2297;28
+158;Tan Zhongyi;2525;2513;2510;30
+159;Trushnikov, Sergey;2525;2428;2466;47
+160;Zhao, Zong-Yuan;2525;-1;2545;36
+161;Lodici, Lorenzo;2524;2296;2265;22
+162;Balakrishnan, Praveen;2524;2395;2237;20
+163;Brodsky, Michail;2524;2540;2520;53
+164;Djukic, Nikola;2524;2591;2590;39
+165;Mousavi, Seyed Khalil;2524;2395;2424;24
+166;Sumets, Andrey;2524;2487;2506;42
+167;Szabo, Gergely-Andras-Gyula;2524;2482;2498;39
+168;Ten Hertog, Hugo;2524;2491;2493;28
+169;Valsecchi, Alessio;2524;2453;2383;30
+170;Xiu, Deshun;2524;2579;2493;33
+171;Bogosavljevic, Boban;2523;2614;2490;34
+172;Krzyzanowski, Marcin;2523;2377;2396;28
+173;Muradli, Mahammad;2523;2381;2645;19
+174;Gallego Alcaraz, Andres Felipe;2523;2449;2376;33
+175;Vernay, Clovis;2523;2520;2474;33
+176;Volkov, Sergey;2523;2568;2475;48
+177;Sankalp Gupta;2522;2362;2395;19
+178;Visakh N R;2522;2391;2454;23
+179;Bosiocic, Marin;2522;2501;2546;33
+180;Kozak, Adam;2522;2508;2459;20
+181;Chatalbashev, Boris;2522;2522;2460;48
+182;Galperin, Platon;2522;2405;2432;19
+183;Nesterov, Arseniy;2522;2441;2489;19
+184;Luther, Thomas;2522;2497;2527;53
+185;Baldauf, Marco;2522;2395;2432;32
+186;Baron, Tal;2522;2428;2442;30
+187;Gholami, Aryan;2522;2340;2383;21
+188;Olszewski, Michal;2522;2466;2344;33
+189;Tran, Tuan Minh;2522;2460;2511;25
+190;Martinez Duany, Lelys Stanley;2521;2548;2464;37
+191;Ribli, Zoltan;2521;2545;2532;71
+192;Korneev, Oleg;2521;2472;2488;53
+193;Nasuta, Grzegorz;2521;2348;2396;26
+194;Lamard, Guillaume;2520;2467;2387;25
+195;Kulaots, Kaido;2520;2479;2505;46
+196;Danielsen, Henrik;2520;2528;2473;56
+197;Deepan Chakkravarthy J.;2520;2475;2490;35
+198;Degraeve, Jean-Marc;2520;2495;2444;51
+199;Ismagambetov, Anuar;2520;2484;2487;36
+200;Kazakouski, Valery;2520;2449;2524;22
+201;Lie, Kjetil A.;2520;2467;2425;42
+202;Ghaem Maghami, Ehsan;2519;2550;2627;39
+203;Kurajica, Bojan;2519;2327;2465;75
+204;Macieja, Bartlomiej;2519;2446;2430;45
+205;Murzin, Volodar;2519;2479;2585;16
+206;Zhigalko Andrey;2519;2449;2452;37
+207;Polak, Tomas;2518;2487;2475;48
+208;Wirig, Anthony;2518;2488;2474;39
+209;Beliavsky, Alexander G;2518;2631;-1;68
+210;Frolyanov, Dmitry;2518;2453;2378;35
+211;Gonzalez Vidal, Yuri;2518;2556;2428;41
+212;Stefansson, Hannes;2518;2493;2416;50
+213;Salinas Herrera, Pablo;2517;2463;2541;28
+214;Makarian, Rudik;2517;2426;2486;18
+215;Quesada Perez, Luis Ernesto;2517;2503;2468;23
+216;Drygalov, Sergey;2517;2524;2514;23
+217;Epishin, Vladimir;2517;2498;2506;57
+218;Harika, Dronavalli;2517;2475;2382;30
+219;Shaposhnikov, Evgeny;2517;2511;2573;41
+220;Stany, G.A.;2517;2354;2502;29
+221;Asis Gargatagli, Hipolito;2516;2551;2557;36
+222;Kobo, Ori;2516;2464;2420;25
+223;Lobanov, Sergei;2516;2433;2514;21
+224;Kosteniuk, Alexandra;2516;2542;2469;37
+225;Shuvalova, Polina;2516;2407;2355;20
+226;Narciso Dublan, Marc;2515;2581;2581;48
+227;Omelja, Artem;2515;2440;2418;31
+228;Bocharov D;2515;2558;2541;42
+229;Dai, Changren;2515;2363;2290;23
+230;Magem Badals, Jordi;2515;-1;-1;55
+231;Gagare, Shardul;2514;2449;2488;25
+232;Le, Tuan Minh;2514;2307;2450;26
+233;Mitkov, Nikola;2514;2463;2464;51
+234;Moskalenko, Alexander;2514;2516;2515;33
+235;Naumann, Alexander;2514;2549;2538;43
+236;Saric, Ante;2513;2545;2585;38
+237;Ponizil, Cyril;2513;2399;2479;31
+238;Hauge, Lars Oskar;2513;2384;2477;24
+239;Glud, Jakob Vang;2513;2521;2564;34
+240;Ionov, Sergey;2513;2408;2460;60
+241;Kazakov, Mikhail;2513;2401;2373;50
+242;Le Roux, Jean-Pierre;2513;2614;2517;40
+243;Nanu, Costica-Ciprian;2513;2502;2476;45
+244;Vysochin, Spartak;2512;2454;2401;47
+245;Sivuk, Vitaly;2512;2499;2440;30
+246;Erenberg, Ariel;2512;2403;2318;21
+247;Ferreira, Jorge Viterbo;2512;2441;2463;28
+248;Gavrilescu, David;2512;2431;2354;19
+249;Noritsyn, Nikolay;2512;2504;2527;31
+250;Schlosser, Philipp;2512;2549;2559;54
+251;Winants, Luc;2512;2459;-1;59
+252;Budisavljevic, Luka;2511;2141;2331;18
+253;Dervishi, Erald;2511;2537;2486;43
+254;Grigorov, Grigor;2511;2521;2510;35
+255;Palac, Mladen;2511;2535;2546;50
+256;Sedlak, Nikola;2510;2626;2560;38
+257;Mitrabha, Guha;2510;2265;2468;21
+258;Repka, Christopher;2510;2428;2377;24
+259;Barbosa, Oliver;2510;2610;2594;36
+260;Burmakin, Vladimir;2510;2450;2513;55
+261;Miron, Lucian-Costin;2510;2479;2482;35
+262;Mishra, Abhimanyu;2510;-1;1682;13
+263;Sebenik, Matej;2510;2524;2494;39
+264;Stern, Rene;2510;2456;2524;50
+265;Vorontsov, Pavlo;2510;2534;2480;24
+266;Kovacevic, Aleksandar;2509;2530;2493;48
+267;Druska, Juraj;2509;2403;2369;28
+268;Neugebauer, Martin;2509;2378;2342;23
+269;Horvath, Adam;2509;2492;2522;41
+270;Khanin, Semen;2509;2485;2442;23
+271;Fernandez Romero, Ernesto;2509;-1;-1;39
+272;Guerra Mendez, Jose Angel;2509;2483;2495;34
+273;Jovanic, Ognjen;2509;2414;2429;44
+274;Miladinovic, Igor;2509;2582;2643;47
+275;Zaragatski, Ilja;2509;-1;2460;37
+276;Beerdsen, Thomas;2508;2462;2585;24
+277;Medvegy, Zoltan;2508;2450;2535;43
+278;Bellahcene, Bilel;2508;2472;2562;24
+279;Swinkels, Robin;2508;-1;2414;33
+280;Hillarp Persson, Tiger;2508;2525;2555;52
+281;Tang, Andrew;2508;2383;2584;23
+282;Ftacnik, Lubomir;2508;2499;2556;65
+283;Drygalov, Andrey;2508;2461;2540;23
+284;Golod, Vitali;2508;2381;2590;51
+285;Mikaelyan, Arman;2508;2435;2461;26
+286;Nikolov, Momchil;2508;2499;2366;37
+287;Tazbir, Marcin;2508;2488;2523;34
+288;Wynn, Zaw Htun;2508;2477;2472;40
+289;Alsina Leal, Daniel;2507;2454;2329;34
+290;Khamrakulov, Djurabek;2507;2482;2535;34
+291;Gonda, Laszlo;2507;2518;-1;34
+292;Horvath, Csaba;2507;2539;2554;54
+293;Lima, Darcy;2507;2451;2339;60
+294;Matviishen, Viktor;2507;2353;2405;20
+295;Paehtz, Elisabeth;2507;2366;2381;37
+296;Tilicheev, Viacheslav;2507;2395;2446;28
+297;Xu, Yi;2507;2354;2471;24
+298;Shengelia, David;2506;2470;2486;42
+299;Berchtenbreiter, Maximilian;2506;2466;2430;28
+300;Charnushevich, Aliaksei;2506;2500;-1;44
+301;Gordon, Stephen J;2506;2474;2466;36
+302;Iljin, Artem;2506;2501;2436;35
+303;Nikitenko, Mihail;2506;2392;2417;22
+304;Spasov, Vasil;2506;2476;2525;51
+305;Sulskis, Sarunas;2506;2486;2485;50
+306;Triapishko, Alexandr;2506;2529;2479;22
+307;Makhnev, Denis;2505;2506;2491;22
+308;Stremavicius, Titas;2505;2483;2404;24
+309;Cuartas, Jaime Alexander;2505;2495;2422;47
+310;Lobron, Eric;2505;-1;2546;62
+311;Rabiega, Robert;2505;-1;2575;50
+312;Karthik Venkataraman;2504;2192;2362;23
+313;Stojanovic, Mihajlo;2504;2571;2638;45
+314;Berelowitsch, Alexander;2504;2503;2474;55
+315;Grover, Sahaj;2504;2492;2525;27
+316;Hong, Andrew;2504;-1;2460;18
+317;Neef, Maximilian;2504;-1;2494;26
+318;Shabalov, Alexander;2504;2526;2477;55
+319;Speelman, Jon S;2504;2540;2569;66
+320;Brunello, Sabino;2503;2722;2641;32
+321;Obregon, Andres Carlos;2503;2502;2572;36
+322;Annaberdiev, Meilis;2503;2504;2451;37
+323;Aguero Jimenez, Luis Lazaro;2503;2434;2396;31
+324;Blohberger, Felix;2503;2410;2474;20
+325;Brenninkmeijer, Joris;2503;-1;-1;53
+326;Libiszewski, Fabien;2503;2442;2440;38
+327;Salemgareev, Tagir;2503;2443;2348;20
+328;Maurizzi, Marc`Andria;2502;2186;2186;15
+329;Aleksandrov, Aleksej;2502;2486;2426;49
+330;Burg, Twan;2502;2539;2422;32
+331;Munkhgal, Gombosuren;2502;2446;2576;34
+332;Priasmoro, Novendra;2502;2312;2309;23
+333;Shanava, Konstantine;2502;2395;2439;37
+334;Vetoshko, Volodymyr;2501;2450;2421;24
+335;Apicella, Manuel;2501;2509;2446;52
+336;Batsuren, Dambasuren;2501;2118;2369;18
+337;Shchekachev, Andrei;2501;2496;2500;50
+338;Yoo, Christopher Woojin;2500;1861;2105;16
+339;Poetsch, Hagen;2500;2522;2520;31
+340;Bobras, Piotr;2500;-1;-1;45
+341;Kornev, Alexei;2500;2523;2492;46
+342;Kotsur, Pavel;2500;2526;2521;48
+343;Wieczorek, Oskar;2500;2392;2319;28
+344;Gdanski, Jacek;2499;2408;2385;52
+345;Hayrapetyan, Hovik;2499;2454;2352;32
+346;Tikkanen, Hans;2499;2535;2554;37
+347;Greenfeld, Alon;2498;2346;2389;58
+348;Kantans, Toms;2498;2441;2357;28
+349;Pakleza, Zbigniew;2498;2452;2467;36
+350;Girish, A. Koushik;2498;2410;2387;25
+351;Morovic Fernandez, Ivan;2498;2578;2498;59
+352;Nevednichy, Vladislav;2498;2405;2370;53
+353;Peng, Li Min;2498;2385;2454;25
+354;Raznikov, Danny;2498;2474;2546;29
+355;Reinaldo Castineira, Roi;2498;2419;-1;42
+356;Caspi, Israel;2497;2455;2430;33
+357;Cacho Reigadas, Sergio;2497;2548;-1;48
+358;Lorparizangeneh, Shahin;2497;2343;2525;23
+359;Maximov, Dmitry;2497;2449;2494;38
+360;Pulvett Marin, Daniel Eduardo;2497;2510;2413;31
+361;Tin, Jingyao;2497;2355;2374;22
+362;Vera Siguenas, Deivy;2497;2412;2360;30
+363;Ratkovic, Miloje;2496;2438;2454;26
+364;Sambuev, Bator;2496;2472;2526;42
+365;Benjamin, Joel;2496;-1;2561;58
+366;Gorodetzky, David;2496;2405;2494;22
+367;Richter, Michael;2496;2438;2462;44
+368;Schoppen, Casper;2496;2536;-1;20
+369;Akash G;2495;2393;2359;26
+370;Bailet, Pierre;2495;2484;2520;34
+371;Gundavaa, Bayarsaikhan;2495;2417;2369;33
+372;Heinemann, Thies;2495;2480;-1;51
+373;Nozdrachev, Vladislav;2495;2494;2447;30
+374;Salomon, Johan;2495;2331;2332;25
+375;Swapnil, S. Dhopade;2495;2470;2402;32
+376;Vasquez Schroeder, Rodrigo;2494;2630;2568;52
+377;Santiago, Yago De Moura;2494;2470;2475;30
+378;Beradze, Irakli;2494;2457;2295;26
+379;Juhasz, Kristof;2494;2324;2293;28
+380;Westerberg, Jonathan;2494;2428;2485;28
+381;Boensch, Uwe;2494;-1;2557;64
+382;Cyborowski, Lukasz;2494;2481;2543;42
+383;Henderson de La Fuente, Lance;2494;2177;2330;19
+384;Kezin, Roman;2494;2552;2509;27
+385;Pourramezanali, Amirreza;2494;2342;2376;30
+386;Lopez Martinez, Josep Manuel;2493;2504;2483;42
+387;Moreno Trujillo, Alejandro;2493;2511;2471;37
+388;Stripunsky, Alexander;2493;2581;2544;52
+389;Bischoff, Klaus;2493;2536;2465;61
+390;Gorovets, Andrey;2493;2575;2462;35
+391;Reshef, Omer;2493;2443;2359;25
+392;Svane, Frederik;2493;2300;2459;18
+393;Venkatesh, M.R.;2493;2414;2450;37
+394;Cori Quispe, Kevin Joel;2492;2303;2361;23
+395;Delchev, Aleksander;2492;2499;2518;50
+396;Dvirnyy, Danyyil;2492;2438;2546;32
+397;Firman, Nazar;2492;2433;2414;39
+398;Grinberg, Eyal;2492;2230;2323;24
+399;Shoker, Samy;2491;2471;2493;35
+400;Cvek, Robert;2491;2477;2478;43
+401;Abdumalik, Zhansaya;2491;2448;2413;21
+402;Batsiashvili, Nino;2491;2345;2230;35
+403;Becerra Rivero, Julio;2491;-1;2568;49
+404;Blagojevic, Dragisa;2491;2479;2489;56
+405;Debashis, Das;2491;2547;2474;29
+406;Kevlishvili, Robby;2491;2579;2584;21
+407;Petkov, Vladimir;2491;2506;2487;51
+408;Sadikhov, Ulvi;2491;2458;2281;24
+409;Ikonnikov, Vyacheslav;2490;-1;-1;56
+410;Ardelean, George-Catalin;2490;2518;2586;41
+411;Ochsner, Bjorn Moller;2490;2472;2448;28
+412;Bar, Roman;2490;2395;2458;40
+413;Diermair, Andreas;2490;2337;2311;36
+414;Haria, Ravi;2490;2339;2159;23
+415;Kashlinskaya, Alina;2490;2286;2330;28
+416;Orlov, Andrey;2490;2585;2541;45
+417;Raja Rithvik R;2490;1870;2255;18
+418;Rusev, Krasimir;2490;2445;2531;39
+419;Garriga Cazorla, Pere;2489;2541;2458;24
+420;Karttunen, Mika;2489;2394;2343;41
+421;Oral, Tomas;2489;-1;2498;45
+422;Demuth, Adrien;2489;2458;2480;31
+423;Dimitrov, Radoslav;2489;2420;2500;29
+424;Ider, Borya;2489;2467;2512;28
+425;Mosadeghpour, Masoud;2489;2311;2395;25
+426;Swayams, Mishra;2489;2461;2419;30
+427;Xu, Zhihang;2489;2409;2206;21
+428;Saraci, Nderim;2488;2418;2573;26
+429;Cicak, Slavko;2488;-1;-1;53
+430;Khademalsharieh, Sarasadat;2488;2411;2431;24
+431;Porat, Shay;2488;2499;2553;37
+432;Zierk, Steven;2488;2500;2494;29
+433;Petr, Martin;2487;2490;2446;34
+434;Barbosa, Evandro Amorim;2487;2426;2454;30
+435;Fernandez, Daniel Howard;2487;2402;2466;27
+436;Sheng, Joshua;2487;-1;2142;22
+437;Spraggett, Kevin;2487;2458;2516;68
+438;Brodsky, David;2486;-1;-1;20
+439;Escalante Ramirez, Brian Sebasti;2486;2350;2214;23
+440;Strikovic, Aleksa;2486;2489;2589;61
+441;Pijpers, Arthur;2486;-1;2429;28
+442;Hertneck, Gerald;2486;2470;2424;59
+443;Klimov, Sergey;2486;2452;2357;43
+444;Pranav, V;2486;2190;2349;16
+445;Seel, Christian, Dr.;2486;2435;2478;39
+446;Shahinyan, David;2486;2466;2372;28
+447;Harsha Bharathakoti;2485;2558;2601;22
+448;Kogan, Arthur;2485;2467;2545;48
+449;Kotronias, Vasilios;2485;2514;2396;58
+450;Chanda, Sandipan;2485;2602;2490;39
+451;Chen, Qi b;2485;2359;2432;22
+452;Espinosa Veloz, Ermes;2485;2487;2333;35
+453;Fernandez De La Vara, Arnaldo;2485;-1;2360;23
+454;Ghasi, Ameet K;2485;2541;2597;35
+455;Iotov, Valentin;2485;-1;2586;34
+456;Khotenashvili, Bela;2485;2387;2320;33
+457;Levin, Evgeny A.;2485;2556;2420;32
+458;Lin, Chen;2485;2539;2493;34
+459;Lou, Yiping;2485;2446;2412;31
+460;Ma, Zhonghan;2485;2371;2474;27
+461;Manolache, Marius;2485;2415;2389;49
+462;Rombaldoni, Denis;2485;2465;2466;33
+463;Sochacki, Christophe;2485;2515;2480;28
+464;Song, Raymond;2485;2254;2343;28
+465;Arizmendi Martinez, Julen Luis;2484;2558;2489;46
+466;Ringoir, Tanguy;2484;2513;2587;28
+467;Raja Harshit;2484;2164;2286;21
+468;Chandra, Akshat;2484;2409;2500;23
+469;Chernobay, Artem;2484;2461;2473;33
+470;Ivanov, Victor L;2484;2401;2044;53
+471;Kanarek, Marcel;2484;2336;2394;29
+472;Kuczynski, Robert;2484;2472;2395;56
+473;Ly, Moulthun;2484;2491;2468;31
+474;Vaisser, Anatoly;2484;2401;2540;73
+475;Wang, Shixu B;2484;2381;2315;21
+476;Aditya Mittal;2483;1565;2287;16
+477;Schitco, Ivan;2483;2290;2337;19
+478;Roganovic, Milos;2483;2503;2516;31
+479;Admiraal, Miguoel;2483;2449;2453;28
+480;Bezold, Michael;2483;2574;2555;50
+481;Bojkov, Dejan;2483;-1;-1;45
+482;Bromberger, Stefan;2483;2511;-1;40
+483;Cabarkapa, Novak;2483;2491;2443;26
+484;Dambacher, Martijn;2483;-1;-1;43
+485;Gormally, Daniel W;2483;2488;2543;46
+486;Sprenger, Jan Michael, Dr.;2483;-1;-1;40
+487;Alexakis, Dimitris;2482;2291;2427;19
+488;Cabrera, Alexis;2482;-1;2468;46
+489;Schneider, Ilja;2482;2452;2432;38
+490;Aronyak Ghosh;2482;2074;2093;19
+491;Galego, Luis;2482;2422;2516;56
+492;Hamitevici, Vladimir;2482;2443;2359;31
+493;Markgraf, Alexander;2482;-1;-1;41
+494;Saltaev, Mihail;2482;-1;2324;60
+495;Sokolin, Leonid;2482;2493;2394;56
+496;Velten, Paul;2481;2512;2548;29
+497;Stojanovic, Dalibor;2481;2513;2520;39
+498;Votava, Jan;2481;2461;-1;48
+499;Horvath, Dominik;2481;2263;2336;19
+500;Brandenburg, Daan;2481;-1;-1;35
+501;Hernandez Gonzalez, William;2481;-1;2282;27
+502;Khmelniker, Ilya;2481;2308;2412;37
+503;Notkevich, Benjamin Arvola;2481;2299;2450;29
+504;Pap, Gyula;2481;2563;2553;31
+505;Potapov, Pavel;2481;2459;2392;32
+506;Stanec, Nikolaus;2481;-1;-1;54
+507;Yang, Kaiqi;2481;2384;2373;34
+508;Kacharava, Nikolozi;2480;2076;2149;18
+509;Bryakin, Mikhail;2480;2442;2421;25
+510;Kaczur, Florian;2480;2500;2485;24
+511;Di Berardino, Diego Rafael;2480;2415;2479;35
+512;Faizrakhmanov, Ramil;2480;2482;2502;25
+513;Firat, Burak;2480;2359;2419;29
+514;Ruiz Castillo, Joshua Daniel;2480;2452;2522;25
+515;Saksham Rautela;2480;1740;1990;18
+516;Baikovsky, Yuriy;2479;2408;2429;63
+517;Ducarmon, Quinten;2479;-1;-1;28
+518;Javakhishvili, Lela;2479;2346;2367;37
+519;Klekowski, Maciej;2479;2447;2538;30
+520;Knaak, Rainer;2479;-1;-1;69
+521;Raahul V S;2478;2177;2185;19
+522;Doric, Darko;2478;2482;2522;38
+523;Khusnutdinov, Rustam;2478;2527;2537;34
+524;Hausrath, Daniel;2478;2511;2540;46
+525;Roshka, Yevgeniy;2478;2408;2437;21
+526;Feuerstack, Aljoscha;2478;2423;2418;34
+527;Haug, Johannes;2478;2216;2421;22
+528;Nigalidze, Gaioz;2478;2440;2433;33
+529;Stupak, Kirill;2478;2443;2493;32
+530;Zhu Jiner;2478;2326;2281;19
+531;Zifroni, Dov;2478;2453;2408;46
+532;Arab, Adlane;2477;2428;2414;42
+533;Vrolijk, Liam;2477;2470;2484;20
+534;Breder, Dennis;2477;-1;2502;42
+535;Enchev, Ivajlo;2477;2466;2457;33
+536;Grigorian, Spartak;2477;2347;2413;24
+537;Lepelletier, Benoit;2477;-1;-1;44
+538;Marin, Mihail;2477;2434;2385;57
+539;Papin, Vasily;2477;2482;2455;34
+540;Quparadze, Giga;2477;2538;2602;34
+541;Rathanvel, V S;2477;2337;2464;21
+542;Zabotin, Alexander;2477;2476;2445;36
+543;Bronstein, Or;2476;2258;2221;21
+544;Bharath Subramaniyam H;2476;2165;2230;15
+545;Sipos, Istvan;2476;2462;-1;35
+546;Balcerak, Jakob;2476;-1;-1;43
+547;Belozerov, Andrei;2476;2441;2332;45
+548;Castellanos Rodriguez, Renier;2476;2488;2612;40
+549;Glek, Igor;2476;2427;2215;61
+550;Turner, Matthew J;2476;2500;2491;47
+551;Vishnu Prasanna. V;2476;2521;2510;33
+552;Wang, Chen;2476;2478;2470;29
+553;Zwardon, Vojtech;2476;2396;2476;32
+554;Miranda Mesa, Elier;2475;2401;2432;29
+555;Keinanen, Toivo;2475;2466;2458;20
+556;Nedev, Trajko;2475;2430;2502;49
+557;Nguyen Anh Dung;2475;-1;2447;46
+558;Atalik S;2474;2553;2444;58
+559;Vila Gazquez, Xavier;2474;2468;2420;32
+560;Bagi, Mate;2474;2413;2377;27
+561;Sokolov, Andrei;2474;2565;-1;59
+562;Csonka, Balazs;2474;2405;2404;25
+563;Schandorff, Lars;2474;2499;2517;57
+564;Dudin, Gleb;2474;2373;2344;18
+565;Matuszewski, Michal;2474;2283;2388;29
+566;Mirzoev, Emil;2474;2433;2398;26
+567;Panchanathan, Magesh Chandran;2474;-1;2494;39
+568;Rakotomaharo, Fy Antenaina;2474;2384;2473;23
+569;Xu Jun;2474;2523;-1;60
+570;Kociscak, Jiri;2473;2427;2475;29
+571;Kraus, Tomas;2473;2370;2389;27
+572;Malinovsky, Karel;2473;-1;2354;34
+573;Mikkelsen, Nikolaj;2473;-1;-1;34
+574;Arzumanian, Georgy;2473;2451;2472;42
+575;Johansson, Linus;2473;2427;2449;27
+576;Lokander, Martin;2473;2304;2336;26
+577;Pavlov, Sergey;2473;2303;2333;35
+578;Preotu, Razvan;2473;2532;2407;23
+579;Shubin, Kirill;2473;2454;2456;19
+580;Sklyarov, Dmitry V.;2473;2422;2446;39
+581;Stachowiak, Kamil;2473;2236;2286;36
+582;Huerga Leache, Mikel;2472;2454;2473;33
+583;Fawzy, Adham;2472;2490;2510;22
+584;Bortnyk M;2472;2515;2582;27
+585;Semcesen, Daniel;2472;2520;2505;36
+586;Khmelnitsky, Igor;2472;-1;-1;54
+587;Kukhmazov, Arsen;2472;2444;2487;25
+588;Leniart, Arkadiusz;2472;2293;2399;31
+589;Nijboer, Friso;2472;-1;2431;57
+590;Ortega Amarelle, Mariano;2472;2482;2389;41
+591;Pogonina, Natalija;2472;2499;2311;36
+592;Rechlis, Gad;2472;2509;2526;55
+593;Das, Arghyadip;2471;2358;2382;37
+594;Alonso, Salvador;2471;2493;2482;48
+595;Goh, Wei Ming Kevin;2471;2422;2401;39
+596;Gomez Ledo, Roberto Carlos;2471;2484;2379;37
+597;Guidarelli, Laurent;2471;2437;2460;41
+598;Gunina, Valentina;2471;2510;2465;32
+599;Pavlovic, Milos;2471;2465;2442;58
+600;Soffer, Ram;2471;2409;2390;57
+601;Jakubowski, Krzysztof;2470;2413;2365;39
+602;Nemeth, Miklos;2470;2433;2439;36
+603;Golubov, Saveliy;2470;2606;2564;21
+604;Hjartarson, Johann;2470;2441;2484;59
+605;Istratescu, Andrei;2470;2507;2529;46
+606;Mammadzada, Gunay;2470;2277;2242;21
+607;Moskalenko, Viktor;2470;2503;2442;62
+608;Flom, Gabriel;2469;2371;2442;36
+609;Laurent-Paoli, Pierre;2469;2439;2390;22
+610;Tahbaz, Arash;2469;2256;2381;22
+611;Vykouk, Jan;2469;2483;2352;22
+612;Arnaudov, G. Petar;2469;2424;2431;36
+613;Kindermann, Stefan;2469;2516;-1;63
+614;Kovalev A;2469;2329;2289;61
+615;Kuzmicz, Krystian;2469;2331;2317;35
+616;Ravi, Teja S.;2469;2310;2400;29
+617;Stefanova, Antoaneta;2469;2438;2426;42
+618;Yudin, Sergei;2469;2460;2617;35
+619;Saduakassova, Dinara;2468;2434;2404;25
+620;Wang, Justin;2468;2250;-1;17
+621;Bernasek, Jan;2468;2506;2427;36
+622;Popovic, Dusan;2468;2568;2565;38
+623;Bagrationi, Alexander;2468;2347;2502;32
+624;Barrientos, Sergio E;2468;2441;2441;36
+625;Govciyan, Pavel;2468;2387;2420;38
+626;Miljkovic, Miroslav D;2468;2447;2562;37
+627;Ris, Robert;2468;-1;-1;34
+628;Subelj, Jan;2468;2300;2248;18
+629;Zoler, Dan;2468;2364;2463;48
+630;Espinosa Aranda, Angel;2467;2429;2496;30
+631;Daggupati, Balaji;2467;-1;-1;17
+632;Gretarsson, Helgi Ass;2467;2381;2396;45
+633;Georgiadis, Ioannis;2467;2494;2446;35
+634;Zelbel, Patrick;2467;2473;2493;29
+635;Ahmadzada, Ahmad;2467;2251;2228;18
+636;Georgescu, Tiberiu-Marian;2467;2306;2297;31
+637;Gharibyan, Mamikon;2467;2382;2254;18
+638;Grigore, George-Gabriel;2467;2453;2423;52
+639;Kabanov, Nikolai;2467;2395;2304;42
+640;Nestorovic, Nikola;2467;2478;2411;33
+641;Ninov, Nikolai;2467;2444;2421;53
+642;Paragua, Mark;2467;2573;2493;38
+643;Shetty, Atulya;2467;-1;2352;26
+644;Yanchenko, Roman;2467;2504;2514;26
+645;Ioannidis, Evgenios;2466;2185;2254;21
+646;Gonzalez Garcia, Jose;2466;2523;2486;49
+647;Krishna C R G;2466;2378;2332;31
+648;Volodin, Aleksandr;2466;2409;2401;32
+649;Seo, Jung Min;2466;2401;2401;20
+650;Galyas, Miklos;2466;2377;2409;44
+651;Kurmann, Oliver;2466;2396;2475;37
+652;Plazuelo Pascual, Juan;2466;2357;2364;21
+653;Gurevich, Vladimir;2466;-1;-1;63
+654;Ivanov, Alexander;2466;-1;2497;66
+655;Jovanovic, Bojan P;2466;2227;-1;28
+656;Koustav Chatterjee;2466;2058;2242;19
+657;Ostmoe, Geir Sune Tallaksen;2466;2461;2382;37
+658;Rahul Srivatshav P;2466;2027;2349;20
+659;Rosner, Jonas;2466;2363;2375;32
+660;Dgebuadze, Alexandre;2465;2469;2416;51
+661;Stefansson, Vignir Vatnar;2465;2308;2477;19
+662;Markoja, Boris;2465;2370;2495;24
+663;Aagaard, Jacob;2465;2502;2509;48
+664;Elsness, Frode;2465;2467;2398;49
+665;Antoniewski, Rafal;2465;2512;2581;42
+666;Evdokimov, Alexander A.;2465;2447;2444;37
+667;Fluvia Poyatos, Joan;2465;2433;2466;40
+668;Fluvia Poyatos, Jordi;2465;2465;2430;38
+669;Khodashenas, Mersad;2465;2344;2377;24
+670;Lazavik, Denis;2465;2370;2436;16
+671;Loiseau, Quentin;2465;2354;2301;27
+672;Sattarov, Bobir;2465;2260;2384;27
+673;Yudasin, Leonid;2465;2499;2521;63
+674;Zumsande, Martin;2465;2405;2368;41
+675;Damljanovic, Branko;2464;2595;2484;61
+676;Ricardi, Pablo;2464;-1;2495;60
+677;Todorov, Todor;2464;-1;-1;48
+678;Airapetian, Gor;2464;2355;2374;32
+679;Draskovic, Luka;2464;2341;2466;27
+680;Gabrielian, Artur;2464;2450;2440;40
+681;Harvey, Marcus R;2464;2460;2485;26
+682;Holm, Kristian Stuvik;2464;2435;2497;24
+683;Morris, James;2464;2351;2397;28
+684;Popilski, Gil;2464;2535;2537;29
+685;Root, Douglas;2464;-1;-1;59
+686;Sanikidze, Tornike;2464;2509;2420;33
+687;Sofronie, Iulian;2464;2435;2458;48
+688;Williams, Simon K;2464;2497;2468;43
+689;Costachi, Mihnea;2463;2478;2464;22
+690;Delorme, Axel;2463;2453;2474;32
+691;Diaz Camallonga, Carles;2463;2472;2438;26
+692;Gadimbayli, Abdulla;2463;2254;2282;20
+693;Illner, Achim, Dr.;2463;-1;2274;52
+694;Janzelj, Tim;2463;2325;2351;28
+695;Javakhadze, Zurab;2463;2438;2381;29
+696;Sulypa, Oleksandr;2463;2308;2319;50
+697;Supatashvili, Khvicha;2463;-1;-1;53
+698;Paveto, Kevin;2462;2400;2446;30
+699;Kaczmarczyk, Dennis;2462;-1;-1;31
+700;Camacho Collados, Marcos;2462;2364;2373;31
+701;Comas Fabrego, Lluis;2462;2532;2523;51
+702;Davies, Nigel R;2462;2475;-1;62
+703;Forster, Richard;2462;-1;-1;47
+704;Ivanov, Sergey;2462;2468;2360;61
+705;Kalod, Radek;2462;2493;2420;44
+706;Lyrberg, Patrik;2462;2439;2437;46
+707;Matamoros Franco, Carlos S.;2462;2425;2554;56
+708;Minasian, Artashes;2462;2470;2556;55
+709;Parvanyan, Ashot;2462;2187;2185;21
+710;Zwirs, Nico;2461;2429;2365;28
+711;Rodriguez Vila, Andres;2461;2448;2424;49
+712;Cardoso Cardoso, Jose Gabriel;2461;2343;2451;18
+713;Haldorsen, Benjamin;2461;2339;2389;23
+714;Petrov, Marian;2461;2415;2424;47
+715;Roussel-Roozmon, Thomas;2461;-1;-1;34
+716;Samusenko, Maksim;2461;2402;2431;25
+717;Sardana, Rishi;2461;2409;2340;25
+718;Nasanjargal, Urtnasan;2460;2288;2422;28
+719;Pezelj, Novak;2460;2466;2462;39
+720;Schmaltz, Roland;2460;2441;2537;48
+721;Sebag, Marie;2460;2430;2482;35
+722;Shytaj, Luca;2460;2377;2372;36
+723;Suarez Gomez, Julio;2460;2406;2376;24
+724;Teske, Henrik;2460;2507;2420;54
+725;Yeletsky, Ivan;2460;2459;2348;23
+726;Das, Sayantan;2459;2413;2370;25
+727;Villanueva, Mario;2459;2416;2294;38
+728;Jaracz, Pawel;2459;2455;2429;47
+729;Slobodjan, Roman;2459;-1;2466;47
+730;Diaz Perez, Michel Alejandro;2459;-1;2337;28
+731;Manor, Ilan;2459;2418;-1;53
+732;Mogranzini, Roberto;2459;2467;2469;39
+733;Mollah Abdullah, Al Rakib;2459;2464;2417;42
+734;Lai, Hing Ting;2458;2257;2571;25
+735;Petenyi, Tamas;2458;-1;-1;29
+736;Cvitan, Ognjen;2458;2549;2541;60
+737;Fishbein, Alexander;2458;-1;2442;54
+738;Ivanov, Oleg V;2458;2476;2279;40
+739;Koch, Thomas;2458;-1;2491;50
+740;Petitcunot, Pierre;2458;2440;2436;42
+741;Acosta, Pablo Ismael;2457;2377;2318;23
+742;Pancevski, Filip;2457;2451;2473;34
+743;Petkov, Momchil;2457;1909;2026;17
+744;Quintiliano Pinto, Renato R.;2457;2388;2439;30
+745;Vertetics, Attila;2457;2502;2522;37
+746;Tadic, Branko;2457;2487;2488;49
+747;Ahmadinia, Ebrahim;2457;2348;2302;36
+748;Anton, Teodor;2457;2476;2451;31
+749;Carlsson, Pontus;2457;2382;2392;40
+750;Feygin, Michael;2457;2530;-1;47
+751;Grebnev, Aleksey;2457;2399;2276;16
+752;Ikeda, Junta;2457;2307;2419;31
+753;Lie, Espen;2457;2427;2497;38
+754;Martinez Ramirez, Lennis;2456;2487;2374;29
+755;Levin, Felix;2456;2411;2238;64
+756;Baumegger, Siegfried;2456;2349;2423;50
+757;Collins, Sam E.;2456;2446;2386;40
+758;Kallai, Gabor;2456;-1;-1;63
+759;Kasparov Sergey;2456;2471;2453;54
+760;Maghalashvili, Davit;2456;2530;2399;35
+761;Maiorov, Nikita;2456;2449;2417;37
+762;Nikolenko, Oleg;2456;2372;2401;63
+763;Relange, Eloi;2456;2451;2449;46
+764;Savchenko, Stanislav;2456;2471;2398;55
+765;Sveshnikov, Evgeny;2456;2327;2255;72
+766;Burovic, Rijad;2455;2384;2364;22
+767;Maksimovic, Bojan;2455;2479;2450;20
+768;Alavi, Sayed Javad;2455;2365;2475;35
+769;Barbot, Pierre;2455;2508;2439;27
+770;Buckels, Valentin;2455;-1;2033;21
+771;Ebeling, Daniel;2455;2416;2356;26
+772;Golizadeh, Asghar;2455;2383;2403;32
+773;Gutenev, Alexander;2455;2444;2403;32
+774;Hebden, Mark L;2455;2453;2457;64
+775;Mikhalchishin, Adrian;2455;2502;2416;68
+776;Ostenstad, Berge;2455;2443;-1;58
+777;Perske, Thore;2455;-1;2315;23
+778;Rotstein, Arkadij;2455;-1;2455;61
+779;Taher, Yoseph Theolifus;2455;2295;2301;23
+780;Wang, Puchen;2455;2443;2469;32
+781;Bilguun, Sumiya;2454;2468;2371;25
+782;Davtyan, Artur;2454;1931;2311;20
+783;Hambleton, Aman;2454;2450;2552;30
+784;Lazarev, Vladimir;2454;2416;-1;58
+785;Livshits, Gaby;2454;2410;2394;37
+786;Macovei, Andrei;2454;2272;2410;22
+787;Matinian, Nikita;2454;2341;2422;30
+788;Peng, Xiongjian;2454;2364;2386;22
+789;Schneider, Dmitry;2454;-1;2317;38
+790;Vedmediuc, Serghei;2454;2330;2327;42
+791;Neverov, Valeriy;2453;2410;2311;58
+792;Arenas, David;2453;2446;2375;31
+793;Stohl, Igor;2453;2459;-1;58
+794;Garbisu de Goni, Unai;2453;-1;-1;47
+795;Badelka, Olga;2453;2217;2165;19
+796;Del Rio De Angelis, Salvador G.;2453;2410;2491;46
+797;Rasulov, Vugar;2453;2410;2560;31
+798;Zuyev, Igor;2453;2467;2502;58
+799;Berczes, David;2452;2495;2504;32
+800;Utegaliyev, Azamat;2452;2532;2475;31
+801;Antic, Dejan;2452;2445;2468;54
+802;Biolek, Richard Jr.;2452;2358;2377;32
+803;De La Villa Garcia, Jesus Maria;2452;2391;-1;64
+804;Cramling, Pia;2452;2396;2320;58
+805;Fish, Gennadij;2452;-1;2400;49
+806;Georgiev, Vladimir;2452;2535;2374;47
+807;Vogel, Roven;2452;2506;2516;22
+808;Srbis, Jurica;2451;2428;2462;27
+809;Ayats Llobera, Gerard;2451;2308;2334;21
+810;Hevia Alejano, Carlos Antonio;2451;2477;2498;31
+811;Cernousek, Lukas;2451;2445;2331;39
+812;Chekhov, Sergei;2451;2470;2422;30
+813;Babujian, Levon;2451;2500;2347;36
+814;Ibarra Chami, Luis Fernando;2451;2434;2452;33
+815;Petrik, Tomas;2451;2516;-1;42
+816;Petrosyan, Tigran S.;2451;2455;2274;28
+817;Suarez Garcia, Carlos;2451;2447;2487;26
+818;Gonzalez Perez, Arian;2450;2396;2410;34
+819;Kjartansson, Gudmundur;2450;2357;2313;34
+820;Kapnisis, Spyridon;2450;2400;2422;41
+821;Avila Pavas, Santiago;2450;2330;2242;18
+822;Dourerassou, Jonathan;2450;2580;2513;33
+823;Flumbort, Andras Dr.;2450;-1;-1;38
+824;Henrichs, Thomas;2450;2458;2499;49
+825;Korchmar, Vasiliy;2450;2378;2370;26
+826;Kozionov, Kirill;2450;2420;2426;24
+827;Llorente Zaro, Alfonso;2450;-1;2480;33
+828;Sanchez, Sebastian Felipe;2450;2407;2374;33
+829;Zajic, Milan;2450;2549;2415;23
+830;Bunzmann, Dimitrij;2449;-1;-1;40
+831;Carow, Johannes;2449;2413;2507;26
+832;Krassowizkij, Jaroslaw;2449;2434;2422;30
+833;Szuhanek, Ranko;2449;2405;2403;48
+834;Ubilava, Elizbar;2449;2435;-1;72
+835;Malakhatko, Vadim;2448;2465;2333;45
+836;Yermolinsky, Alex;2448;2520;2508;64
+837;Kovacs, Gabor;2448;2455;2405;45
+838;Volke, Karsten;2448;-1;2349;57
+839;Bregadze, Levan;2448;2421;2455;30
+840;Drozdowski, Kacper;2448;2437;2507;26
+841;Psakhis, Lev;2448;2517;-1;64
+842;Terrieux, Kevin;2448;2427;2482;37
+843;Zaja, Ivan;2448;2397;2377;57
+844;Gorshtein, Ido;2447;2364;2356;20
+845;Nitish Belurkar;2447;2031;2306;21
+846;Jirovsky, Milos;2447;2466;2461;48
+847;Agopov, Mikael;2447;2346;-1;44
+848;Cruz Lledo, Pablo;2447;2417;2372;27
+849;De Filomeno, Simone;2447;2458;2382;27
+850;Gallagher, Joseph G.;2447;2425;2479;58
+851;Givon, Asaf;2447;2382;2298;28
+852;Kuipers, Stefan;2447;-1;2471;32
+853;Makhmutov, Rail;2447;2417;2425;27
+854;Perdomo, Leandro;2447;2495;2492;37
+855;Petursson, Margeir;2447;2325;2242;62
+856;Pile, Richard;2447;2499;2376;35
+857;Usmanov, Vasily;2447;2399;2339;26
+858;Wang, Yiye;2447;2471;2401;24
+859;Yankelevich, Lev;2447;2389;2389;25
+860;Kaasen, Tor Fredrik;2446;2183;2335;20
+861;Khachiyan, Melikset;2446;2471;2484;52
+862;Real De Azua, Ernesto;2446;2403;2476;37
+863;Rogic, Davor;2446;2522;2467;51
+864;Barski, Radoslaw;2446;2188;2284;29
+865;Chabanon, Jean-Luc;2446;2385;2431;51
+866;Finegold, Benjamin;2446;-1;2501;53
+867;Gajek, Radoslaw;2446;2309;2442;24
+868;Huang, Renjie;2446;2305;2264;18
+869;Milov, Leonid;2446;2484;2443;56
+870;Plenca, Jadranko;2446;2410;2502;23
+871;Voigt, Roland;2446;-1;-1;41
+872;Dann, Matthias;2445;2515;2511;31
+873;Parkhov, Yair;2445;2451;2164;20
+874;Valderrama Quiceno, Esteban Alb;2445;2512;2563;29
+875;Reyes, Juan;2445;2367;2373;59
+876;Berdayes Ason, Dylan Isidro;2445;2101;2296;24
+877;Berescu, Alin-Mile;2445;2366;2380;42
+878;Dzhumaev, Marat;2445;2395;2282;46
+879;Gaifullin, Artur;2445;2288;2310;21
+880;Gokerkan, Cem Kaan;2445;2161;2382;22
+881;Gutman, Gennadi;2445;2363;-1;49
+882;Lettieri, Giuseppe;2445;2502;-1;33
+883;Miezis, Normunds;2445;2526;2446;51
+884;Neelash Saha;2445;1959;2032;20
+885;Schweda, Roland;2445;-1;-1;48
+886;Sebastian, Dirk;2445;2462;-1;43
+887;Spyropoulos, Nikolaos;2445;2148;2159;18
+888;Suarez Real, Alberto;2445;2379;2449;39
+889;Vignesh N R;2444;2256;2395;24
+890;Bokros, Albert;2444;2457;2528;40
+891;Fernandez, Daniel;2444;2455;2395;37
+892;Friedmann, Rafael;2444;2437;2536;43
+893;Adair, James R;2444;2307;2412;30
+894;Belyakov, Bogdan;2444;2510;2407;33
+895;Karlsson, Lars;2444;2488;2322;67
+896;Kolosowski, Mateusz;2444;2354;2429;30
+897;Kotainy, Jens;2444;-1;-1;28
+898;Meng, Roger;2444;-1;-1;26
+899;Prithu Gupta;2444;2394;1775;18
+900;Stella, Andrea;2444;2453;2442;29
+901;Valenzuela Fuentealba, Luis;2444;2525;2533;44
+902;Van Haastert, Edwin;2444;-1;-1;48
+903;Bakhmatsky, Vladislav;2443;2397;2391;24
+904;De La Riva Aguado, Oscar;2443;2549;2470;50
+905;Kardashevskiy, Evgeny;2443;2345;2285;25
+906;Hector, Jonny;2443;2500;2403;58
+907;Brodowski, Piotr;2443;2469;2422;33
+908;Galchenko, Matvey;2443;2418;2453;22
+909;Kantarji, Pinchas;2443;2350;-1;45
+910;Munguntuul, Batkhuyag;2443;2364;2391;34
+911;Novikov, Maxim;2443;2528;2458;50
+912;Plenca, Julijan;2443;2363;2389;33
+913;Ramoutar, Alan-Safar;2443;1611;1835;19
+914;Haznedaroglu, Kivanc;2442;2487;2417;41
+915;Kosakowski, Jakub;2442;2430;2476;20
+916;Kalesis, Nikolaos;2442;2468;2314;52
+917;Abel, Dennes;2442;2463;2485;33
+918;Godena, Michele;2442;2574;2567;55
+919;Iljushin, Alexei;2442;2477;2462;42
+920;Nigmatov, Ortik;2442;2355;2378;22
+921;Sevillano, Enrico;2442;-1;2515;54
+922;Shyaamnikhil P;2442;2344;2292;30
+923;Bersamina, Paulo;2441;2286;2349;24
+924;Movsziszian, Karen;2441;2452;2446;59
+925;Raghunandan, Kaumandur Srihari;2441;2116;2011;21
+926;Colovic, Aleksandar;2441;2395;2316;46
+927;Daghli, Arash;2441;2209;2145;19
+928;Danielian, Elina;2441;2330;2218;43
+929;Fang, Yan;2441;2413;2303;26
+930;Klyuner, Vyacheslav;2441;2385;-1;53
+931;Koch, Jean-Rene;2441;-1;-1;52
+932;Matsuura, Everaldo;2441;2416;2363;52
+933;Mortensen, Erling;2441;-1;-1;67
+934;Rashkovsky, Nukhim N;2441;2416;2486;76
+935;Larino Nieto, David;2440;2450;2532;33
+936;Froewis, Georg;2440;2484;2511;32
+937;Jakubiec, Artur;2440;2448;2473;49
+938;Riff, Jean-Noel;2440;2498;2479;41
+939;Simacek, Pavel;2440;2398;2365;43
+940;Agibileg, Uurtsaikh;2440;2205;2205;21
+941;Akhmetov, Ayan;2440;2297;2438;25
+942;Al Qudaimi, Basheer;2440;2429;2421;38
+943;Carlstedt, Jonathan;2440;2347;2307;32
+944;Ratkovic, Milovan;2440;2336;2400;28
+945;Tomczak, Mikolaj;2440;2482;2504;23
+946;Xu, Xianliang;2440;-1;-1;25
+947;Zhao, Yuanhe;2440;2370;2360;22
+948;Diaz Hollemaert, Nahuel;2439;2496;2468;46
+949;Polivanov, Anatoliy;2439;2437;2472;36
+950;Yilmazyerli, Mert;2439;2388;2432;30
+951;Rogozenco, Dorian;2439;2435;2409;49
+952;Barkhagen, Jonas;2439;2418;2435;48
+953;Gunnarsson, Jon Viktor;2439;2409;2398;42
+954;Hendriks, Willy;2439;-1;-1;56
+955;Ladron De Guevara Pinto, Paolo;2439;2385;2423;27
+956;Toufighi, Homayoon;2439;2441;2491;32
+957;Zhang, Ziji;2439;2181;2292;26
+958;Garcia Ramos, Daniel;2438;2314;2267;23
+959;Urazayev, Arystanbek;2438;2390;2321;24
+960;Renet, Olivier;2438;2507;2485;58
+961;Bakalchuk, Johnatan;2438;2358;2486;24
+962;Bezgodov, Alexei;2438;2387;2383;53
+963;Bodnar, Nikolay;2438;2187;2296;50
+964;Bruno, Fabio;2438;2467;2373;62
+965;Heinz, Axel;2438;-1;2385;35
+966;Kirk, Ezra;2438;2417;2240;26
+967;Molner, Mackenzie;2438;2482;2434;34
+968;Radovanovic, Mihajlo;2438;2250;2394;21
+969;Smith, Bryan;2438;2394;2357;42
+970;Rios, Cristhian Camilo;2437;2484;2547;29
+971;Tejedor Fuente, Enrique;2437;2451;2571;27
+972;Efroimski, Marsel;2437;2196;2188;26
+973;Smith, Axel;2437;2463;2456;36
+974;Malikentzos, Sotirios;2437;2403;2296;30
+975;Travadon, Loic;2437;2328;2095;20
+976;Aloma Vidal, Robert;2437;2484;2435;33
+977;Arribas Lopez, Angel;2437;2474;2553;29
+978;Badmatsyrenov, Oleg;2437;2403;2403;35
+979;Enders, Peter;2437;-1;2408;59
+980;Gleizerov, Evgeny;2437;2458;2406;59
+981;Hermansson, Emil;2437;2362;2467;51
+982;Oganian, Miran;2437;2446;2357;26
+983;Pereira, Ruben;2437;2413;2377;31
+984;Pranesh M;2437;2029;1866;16
+985;Reuker, Jari;2437;2255;2153;21
+986;Riemersma, Li;2437;-1;-1;55
+987;Shmeliov, Denis;2437;-1;-1;36
+988;Stukan, Martin;2437;2093;2154;17
+989;Ulybin, Mikhail;2437;2406;2319;51
+990;He, Anthony;2436;-1;2415;17
+991;Panjwani, Raja;2436;2394;2395;32
+992;Managadze, Nikoloz;2436;2488;2292;53
+993;Groszpeter, Attila;2436;2449;-1;62
+994;Hoffmann, Michael;2436;2462;2395;52
+995;Sahidi, Samir;2436;2436;2467;19
+996;Ajay Karthikeyan;2436;1760;2183;18
+997;Borsuk, Konstantin;2436;2408;2406;31
+998;Boskovic, Drasko;2436;2460;2388;40
+999;David, Alexandru-Vasile;2436;2386;2393;25
+1000;Gamundi Salamanca, Antonio;2436;2368;-1;57
+1001;Gershon, Alik;2436;2381;-1;42
+1002;Gontcharov, Vladislav;2436;2391;2503;50
+1003;Handler, Lukas;2436;2365;2263;28
+1004;Marcelin, Cyril;2436;2459;2436;43
+1005;Nakar, Eylon;2436;2438;2441;29
+1006;Rizouk, Aimen;2436;2471;2462;43
+1007;Zhou, Yang-Fan;2436;2463;2456;28
+1008;Minzer, Claudio Javier;2435;2389;2440;54
+1009;Wadsworth, Matthew J;2435;2189;2294;22
+1010;Haba, Petr;2435;-1;2505;57
+1011;Toth, Ervin;2435;2466;2457;32
+1012;Braeuer, Franz;2435;-1;2370;28
+1013;Zawadzki, Stanislaw;2435;2451;-1;38
+1014;Kostenko, Petr;2434;2397;2421;46
+1015;Pantzar, Milton;2434;2404;2340;21
+1016;Sturt, Raven;2434;2481;2434;29
+1017;Rydl, Jiri;2434;2365;2228;24
+1018;Alikhanov, Felix;2434;2431;2425;39
+1019;Assaubayeva, Bibisara;2434;2396;2404;17
+1020;Barseghyan, Harutyun;2434;2477;2283;24
+1021;Hilby, Craig;2434;2420;2403;22
+1022;Kalezic, Blazo;2434;2472;2548;43
+1023;Maksimenko, Andrei;2434;2478;2449;53
+1024;Szpar, Milosz;2434;2375;2447;20
+1025;Xiang, Zeyu;2434;2376;2264;23
+1026;Akhvlediani, Irakli;2433;2190;2225;22
+1027;Degerman, Lars;2433;2414;-1;59
+1028;Brunner, Lucas;2433;-1;-1;55
+1029;Donchev, Dimitar I.;2433;-1;-1;64
+1030;Jamilov, Robert F;2433;-1;-1;35
+1031;Li, Zhaozhi;2433;-1;2230;22
+1032;Lubbe, Nikolas;2433;2444;2447;32
+1033;Schwabeneder, Florian;2433;2367;2329;30
+1034;Strohhaeker, Raoul;2433;-1;2463;35
+1035;Thejkumar, M. S.;2433;2382;2294;41
+1036;Mirzoev, Azer;2432;2505;2525;44
+1037;Mohammad Nubairshah Shaikh;2432;2271;2361;24
+1038;Arabidze, Meri;2432;2356;2329;27
+1039;Osmak, Yuliia;2432;2273;2302;23
+1040;Iruzubieta Villaluenga, Jesus M;2432;-1;-1;56
+1041;Motwani, Paul;2432;-1;-1;60
+1042;Oms Pallisse, Josep;2432;2414;2466;49
+1043;Sek, Konstantin;2432;2415;2377;33
+1044;Tolnai, Tibor;2432;2353;2440;58
+1045;Zou, Chen;2432;2441;2276;21
+1046;Valerga, Diego;2431;2434;2354;51
+1047;Agmanov, Zhandos;2431;2400;2467;22
+1048;Vetokhin, Savva;2431;2155;2282;13
+1049;Balashov, Yuri S;2431;2369;2305;73
+1050;Carneiro, Vitor Roberto Castro;2431;-1;-1;25
+1051;Chu, Wei Chao;2431;2313;2276;26
+1052;De Jong, Jan-Willem;2431;-1;-1;41
+1053;Gonzalez De La Torre, Santiago;2431;2407;-1;41
+1054;Murphy, Conor E;2431;2082;2104;23
+1055;Pileckis, Emilis;2431;2442;2434;32
+1056;Popovic, Petar;2431;-1;2504;63
+1057;Schenk, Andreas;2431;-1;2519;40
+1058;Starostits, Ilmars;2431;2358;2422;43
+1059;Tischbierek, Raj;2431;2367;2380;60
+1060;Torma, Robert;2430;2420;-1;36
+1061;Koellner, Ruben Gideon;2430;-1;-1;18
+1062;Astaneh Lopez, Alex;2430;2377;2488;35
+1063;Clarke, Brandon G I;2430;2386;2414;27
+1064;Damaso, Rui;2430;2451;2478;54
+1065;Diaz Murgada, Rider;2430;-1;2325;38
+1066;Diu, Viacheslav;2430;2330;2408;46
+1067;Galburd, Yan;2430;2312;2369;30
+1068;Kessler, Luca;2430;2199;2332;25
+1069;Maiwald, Jens-Uwe;2430;2453;2444;48
+1070;Novik, Maxim;2430;2366;2432;52
+1071;Obgolts, Erik;2430;2429;2372;21
+1072;Pour Agha Bala, Amirreza;2430;2252;2313;18
+1073;Schekachikhin, Maksim;2430;2203;2230;24
+1074;Tyomkin, Dimitri;2430;-1;2447;45
+1075;Laxman, R.R.;2429;2346;2476;39
+1076;Nguyen, Huynh Minh Huy;2429;2465;2470;35
+1077;Geirnaert, Steven;2429;2429;2394;38
+1078;De Jager, Jaap;2429;-1;2365;50
+1079;Kramer, Julian;2429;2333;2283;25
+1080;Lorenzo De La Riva, Lazaro;2429;2339;2325;39
+1081;Mesropov, Konstantin;2429;2513;2359;51
+1082;Mokshanov, Alexey;2429;2315;2141;27
+1083;Needleman, Gaston;2429;-1;-1;32
+1084;Ortega, Lexy;2429;2463;2440;62
+1085;Pajkovic, Vladimir;2429;2388;2393;61
+1086;Sielecki, Christof;2429;2436;2443;48
+1087;Simonian, Hrair;2429;2494;2477;31
+1088;Laylo, Darwin;2428;2337;2344;42
+1089;Zambrana, Oswaldo;2428;2464;2445;41
+1090;Abdisalimov, Abdimalik;2428;2279;2401;20
+1091;Ashiku, Franc;2428;2319;2306;29
+1092;Bellini, Fabio;2428;2446;2474;53
+1093;Darini, Pouria;2428;2573;2489;31
+1094;Elias Reyes, Jorge Roberto;2428;-1;2200;23
+1095;Marinkovic, Ivan;2428;2452;2363;55
+1096;Sagit, Rauan;2428;2406;2390;37
+1097;Zaslavsky, Mikhail;2428;2362;2422;32
+1098;Bellia, Fabrizio;2427;2443;2431;59
+1099;Fercec, Nenad;2427;2445;2474;61
+1100;Haub, Thorsten Michael;2427;2466;2346;54
+1101;Nitin, S.;2427;2382;2417;30
+1102;Babazada, Khazar;2427;2279;2418;17
+1103;Moreno Ruiz, Javier;2427;2345;2295;52
+1104;Berger, Steve;2427;2438;2331;41
+1105;Bogdanov, Egor;2427;2369;2412;26
+1106;Boyer, Mahel;2427;2353;2328;18
+1107;Cifuentes Parada, Roberto;2427;2455;2500;65
+1108;Gkoumas, Georgios;2427;2378;2397;31
+1109;Gorozhanin, Mikhail;2427;2385;2420;25
+1110;Harikrishnan.A.Ra;2427;2085;2276;21
+1111;Kaspi, Alexander;2427;2307;2283;58
+1112;Merry, Alan B;2427;2333;2340;26
+1113;Pang, Tao;2427;2311;2286;21
+1114;Romero Holmes, Alfonso;2427;2469;2378;57
+1115;Rychkov, Oleg;2427;2389;2461;27
+1116;Seyb, Alexander;2427;-1;2345;31
+1117;Sousa, Andre Ventura;2427;2319;2304;22
+1118;Stopa, Jacek;2427;2511;2423;35
+1119;Roselli Mailhe, Bernardo;2426;2442;2477;57
+1120;Can, Isik;2426;1897;2130;17
+1121;Dhulipalla Bala Chandra Prasad;2426;2265;2336;26
+1122;Horvath, Jozsef;2426;2420;-1;58
+1123;Vlasak, Lukas;2426;2349;2328;29
+1124;Bosch, Jeroen;2426;-1;2317;52
+1125;Gascon Del Nogal, Jose Rafael;2426;2413;2473;27
+1126;Wiedenkeller, Michael;2426;2418;2477;59
+1127;Bora, Safal;2426;2389;2377;24
+1128;Jarmula, Lukasz;2426;2278;2181;24
+1129;Krause, Benedict;2426;2404;2432;25
+1130;Krylov, Ivan;2426;2315;2258;26
+1131;Li, Shilong;2426;2531;2549;45
+1132;Munoz Santana, Jose Lisandro;2426;-1;2484;36
+1133;Ovchinnikov, Vsevolod;2426;2362;2376;22
+1134;Sakelsek, Tadej;2426;2352;2375;36
+1135;Kosic, Dragan;2425;2455;2482;52
+1136;Dvoirys, Semen I.;2425;2372;2350;64
+1137;Savic, Miodrag R;2425;2475;2512;45
+1138;Finek, Vaclav;2425;2062;2101;12
+1139;Globus, Or;2425;2264;2152;19
+1140;Docx, Stefan;2425;2364;2286;48
+1141;Grinev, Valeriy;2425;2355;2345;33
+1142;Low, Zhen Yu Cyrus;2425;2223;2274;20
+1143;Monroy, Charles;2425;2381;2334;38
+1144;Ostrovskiy, Andrey;2425;-1;2469;33
+1145;Potapov, Alexander;2425;2315;2255;53
+1146;Roberson, Peter T;2425;2433;2346;33
+1147;Schmakel, Sam;2425;2130;2356;26
+1148;Womacka, Mathias;2425;2421;2423;56
+1149;Munoz, Miguel;2424;2491;2563;38
+1150;Nogerbek, Kazybek;2424;2321;2478;18
+1151;Yarar, Bora;2424;-1;1824;14
+1152;Kanep, Meelis;2424;2433;2292;39
+1153;Rasik, Vitezslav;2424;2417;2375;49
+1154;Atabayev, Yusup;2424;2528;2454;28
+1155;Balinov, Ilia;2424;2454;2442;56
+1156;Calderin Gonzalez, Roberto;2424;-1;-1;55
+1157;Flear, Glenn C;2424;2368;2315;63
+1158;McClymont, Brodie;2424;-1;2278;30
+1159;Poetz, Florian;2424;2367;2374;31
+1160;Prasanna Raghuram Rao;2424;2400;2383;28
+1161;Souleidis, Georgios;2424;2420;2401;50
+1162;Stoyanov, Tsvetan;2424;2262;2191;18
+1163;Mosesov, Danyil;2423;2359;2291;19
+1164;Zaibi, Amir;2423;2336;2201;34
+1165;Mazur, Stefan;2423;2327;2345;30
+1166;Atlas, Valery;2423;2419;2425;54
+1167;Brunner, Nicolas;2423;2360;2372;38
+1168;Miralles, Gilles;2423;-1;2478;56
+1169;Liu, Guanchu;2423;2458;2437;28
+1170;Lugovskoy, Maxim;2423;2451;2444;26
+1171;Matnadze, Ana;2423;2355;2425;38
+1172;Moreno Tejera, Emilio;2423;2437;2404;37
+1173;Murdzia, Piotr;2423;2400;2455;47
+1174;Shishkin, Vadim;2423;2257;2349;53
+1175;Ushenina, Anna;2423;2371;2395;36
+1176;Williams, Justus;2423;2357;2210;24
+1177;Zavgorodniy, Sergiy;2423;2396;2420;35
+1178;Saldano Dayer, Horacio;2422;2370;2419;49
+1179;Civin, Tomas;2422;-1;-1;46
+1180;Tomic, Bosko;2422;2479;2432;39
+1181;Wessman, Richard;2422;-1;-1;53
+1182;Garcia Cardenas, Pablo;2422;2403;2472;33
+1183;Gasthofer, Alexander;2422;-1;2508;37
+1184;Meister, Jakob;2422;2390;2440;67
+1185;Stojanovski, Dejan;2422;2491;2543;38
+1186;Hesham, Abdelrahman;2421;2388;2506;30
+1187;Grabinsky, Aaron;2421;2260;2353;24
+1188;Corral Blanco, Juan Antonio;2421;2341;-1;60
+1189;Straka, Vojtech;2421;2309;2319;29
+1190;Boissonet, Carlos P.;2421;2458;2394;53
+1191;Bernabeu Lopez, Carlos Javier;2421;2173;2320;25
+1192;Breukelman, Jan;2421;-1;2218;35
+1193;Fernandez Cardoso, Alexey;2421;2457;2488;41
+1194;Galliamova, Alisa;2421;2356;2412;49
+1195;Krush, Irina;2421;2392;2342;38
+1196;Meijers, Viesturs;2421;2442;2301;55
+1197;Neubauer, Martin;2421;2393;2354;49
+1198;Sarakauskas, Gediminas;2421;2342;2395;45
+1199;Savitskiy, Sergey;2421;2366;2387;27
+1200;Schreiner, Peter;2421;2530;2468;30
+1201;Skembris, Spyridon;2421;-1;-1;64
+1202;Teterev, Vitaly;2421;2427;2387;39
+1203;Utnasunov, Alexander;2421;2382;2384;37
+1204;Zarubitski, Viachaslau;2420;2366;2325;20
+1205;Gholami Orimi, Mahdi;2420;2162;2318;20
+1206;Molina, Roberto Junio Brito;2420;2433;2402;37
+1207;Ghimpu, Samuel-Timotei;2420;2116;2012;19
+1208;Adla, Diego;2420;2422;2377;54
+1209;Alexandrova, Olga;2420;2406;2408;43
+1210;Azaladze, Shota;2420;2435;2452;33
+1211;Dimakiling, Oliver;2420;2410;2454;42
+1212;Englert, Fabian;2420;2342;2292;32
+1213;Igambergenov, Alibek;2420;2254;2332;27
+1214;Le, Quang Long;2420;2413;2447;33
+1215;Polschikov, Alexey;2420;2392;2223;35
+1216;Proudian, Armen;2420;2271;2380;28
+1217;Sammalvuo, Tapani;2420;2417;2505;47
+1218;Gines Esteo, Pedro Antonio;2419;2231;2223;18
+1219;Kanovsky, David;2419;-1;2390;36
+1220;Godart, Francois;2419;2452;2312;28
+1221;Baidetskyi, Valentin;2419;2301;2448;20
+1222;Cawdery, Daniel;2419;2357;2325;40
+1223;Dubiel, Jacek;2419;-1;2344;46
+1224;Finkel, Alexander;2419;2289;2356;47
+1225;Franco Alonso, Alejandro;2419;2476;2447;40
+1226;Gan-Erdene, Sugar;2419;2109;2256;19
+1227;Genov, Petar;2419;2445;2448;52
+1228;Leenhouts, Koen;2419;-1;2409;38
+1229;Lukovic, Vladimir;2419;2379;2436;27
+1230;Meins, Gerlef;2419;2418;2319;52
+1231;Mesaros, Florian;2419;2268;2358;22
+1232;Mindlin, Alon;2419;2358;2446;26
+1233;Murshed, Niaz;2419;2496;2442;56
+1234;Stoleriu, George;2419;2180;2203;20
+1235;Thorfinnsson, Bragi;2419;2414;2299;41
+1236;Tica, Sven;2419;2308;2391;23
+1237;Petriashvili, Nikoloz;2418;2318;2414;20
+1238;Suleymenov, Alisher;2418;2516;2254;22
+1239;Audi Ameya;2418;2110;2061;23
+1240;Popov, Mikhail;2418;2347;2329;27
+1241;Miesbauer, Jan;2418;-1;-1;21
+1242;Tzermiadianos, Andreas;2418;2381;-1;50
+1243;Martins, David Pires Tavares;2418;2223;2320;25
+1244;Bodek, Michael;2418;2393;2399;25
+1245;Campora, Daniel H.;2418;2360;2378;65
+1246;Castaldo, Folco;2418;2369;2355;41
+1247;Galic, Ivan;2418;2359;2269;34
+1248;Herrera, Irisberto;2418;-1;-1;54
+1249;Ibrahimli, Murad;2418;2155;2109;20
+1250;Inkiov, Ventzislav;2418;2404;2423;66
+1251;Liascovich, Lucas;2418;2394;2490;38
+1252;Lopez, Jasel;2418;2367;2327;28
+1253;Mikhalevski, Alexander;2418;2417;-1;64
+1254;Radovic, Janko;2418;2325;2293;23
+1255;Sveshnikov, Vladimir;2418;2434;2233;36
+1256;Wandzik, Wojciech;2418;2337;-1;28
+1257;Yip, Carissa;2418;2393;1708;18
+1258;Prraneeth Vuppala;2417;1628;1759;15
+1259;Sanduleac, Vasile;2417;2334;2369;51
+1260;Tratar, Marko;2417;2455;2377;48
+1261;Fayzullaev, Akmal;2417;2257;2228;31
+1262;Hovhannisyan, Mher;2417;2463;2422;44
+1263;Johannessen, Leif Erlend;2417;2491;2518;42
+1264;Khusenkhojaev, Muhammad;2417;2364;2190;35
+1265;Krnan, Tomas;2417;2476;2339;34
+1266;Kvetny, Mark;2417;2372;2381;25
+1267;Schnider, Gert;2417;2375;2301;43
+1268;Zaitsev, Mikhail;2417;2496;2443;51
+1269;Aitbayev, Aslan;2416;2435;2385;32
+1270;Bajarani, Ulvi;2416;2479;2474;27
+1271;Czopor, Maciej;2416;1999;1999;18
+1272;Di Nicolantonio, Lucas;2416;2446;2381;29
+1273;Domingo Nunez, Ruben;2416;2157;2376;23
+1274;Abdelnabbi, Imed;2416;2352;2379;65
+1275;El Gindy, Essam;2416;2436;2488;56
+1276;Khamrakulov, Ibragim S.;2416;2398;2519;40
+1277;Bykov, Egor;2416;2310;2221;22
+1278;Donaldson, John;2416;2390;-1;64
+1279;Goldsztejn, Gildas;2416;2375;-1;40
+1280;Kalegin, Evgenij;2416;2166;2367;68
+1281;Lingnau, Carsten;2416;-1;-1;53
+1282;Manzone, Alessandro;2416;2387;2327;35
+1283;Munizaba, Slobodan;2416;2327;2398;41
+1284;Pranav Anand;2416;1707;2238;16
+1285;Atalik E;2415;2385;2180;39
+1286;Fiebig, Thomas;2415;-1;2420;36
+1287;Nilsen, Joachim Birger;2415;2215;2354;29
+1288;Bernal Moro, Luis Javier;2415;2408;2373;51
+1289;Gruenfeld, Yehuda;2415;2391;2433;66
+1290;Harutjunyan, Gevorg;2415;2442;2498;41
+1291;Ionescu, Constantin;2415;2332;2347;64
+1292;Likavsky, Tomas;2415;2389;-1;51
+1293;Nguyen, Duc Hoa;2415;2347;2299;33
+1294;Pert, Richard G;2415;2444;2441;41
+1295;Petrosyan, Armen;2415;2180;2322;54
+1296;Prie, Eric;2415;2460;2402;60
+1297;Recuero Guerra, David;2415;2437;2392;31
+1298;Romanishin, Oleg M;2415;2414;2387;70
+1299;Teplyi, Igor;2415;2384;-1;36
+1300;Van Overdam, Julian;2415;-1;2345;27
+1301;Lortkipanidze, Nodar;2414;2450;2287;28
+1302;Zawadzka, Jolanta;2414;2197;2140;34
+1303;Alvarado Diaz, Alejandro;2414;2429;2438;29
+1304;Jackelen, Thomas;2414;-1;-1;57
+1305;Svoboda, Svatopluk;2414;2326;2387;38
+1306;Banawa, Joel;2414;-1;-1;33
+1307;Chukavin, Kirill;2414;2431;2266;20
+1308;Claverie, Raul;2414;2527;2525;39
+1309;Farran Martos, Francesc X.;2414;2403;-1;36
+1310;Garifullina, Leya;2414;2252;2228;17
+1311;Kopylov, Alexander A.;2414;2406;2436;31
+1312;Liss, Eran;2414;-1;-1;47
+1313;Mohr, Georg;2414;2309;2460;57
+1314;Ochoa De Echaguen, Francisco Javier;2414;2422;-1;68
+1315;Philippe, Guillaume;2414;2342;2379;23
+1316;Shikalov, Roman;2414;2394;2400;53
+1317;Thorhallsson, Throstur;2414;2492;2392;53
+1318;Tisdall, Jonathan D;2414;-1;-1;64
+1319;Avinash Ramesh;2413;1664;1875;18
+1320;Chyndygyr, Tamerlan;2413;2163;2011;15
+1321;Perunovic, Miodrag;2413;2389;2378;43
+1322;Radovanovic, Nikola;2413;2464;2477;26
+1323;Vypkhaniuk, Ihor;2413;2326;2327;37
+1324;Pilgaard, Kim;2413;2307;-1;55
+1325;Andreev, Eduard;2413;2419;2382;42
+1326;Baburin, Alexander;2413;-1;2485;55
+1327;Bagaturov, Giorgi;2413;2345;2402;58
+1328;Bakre, Tejas;2413;2385;2366;41
+1329;Baltag, Iulian;2413;2319;2336;36
+1330;Biolek, Richard;2413;2405;2473;52
+1331;Danilovic, Aleksandar;2413;2351;2387;41
+1332;Dudka, Yuriy;2413;-1;-1;43
+1333;Galdunts, Sergey;2413;-1;2430;57
+1334;Garrido Dominguez, Jesus;2413;2412;2400;34
+1335;Hunt, Harriet V;2413;2356;-1;43
+1336;Lubczynski, Rafal;2413;2207;2322;34
+1337;McPhillips, Joseph;2413;2253;2322;25
+1338;Nagle, Sean;2413;-1;-1;40
+1339;Palliser, Richard J D;2413;2425;-1;41
+1340;Pasko, Llambi;2413;2319;2343;31
+1341;Rahman, Ziaur;2413;2527;2460;48
+1342;Yang, Hainan;2413;2134;2355;33
+1343;Stankovic, Milos;2412;2454;2431;31
+1344;Tzidkiya, Yeshaayahu;2412;2031;2161;19
+1345;Mis, Mieszko;2412;2334;2268;19
+1346;Oratovsky, Michael;2412;2514;2391;48
+1347;Tutisani, Noe;2412;2255;2227;24
+1348;Guo, Arthur;2412;-1;-1;16
+1349;Kudrin, Sergey;2412;-1;-1;63
+1350;Pulpan, Jakub;2412;2506;2494;24
+1351;Jansa, Vlastimil;2412;2452;2400;80
+1352;Menezes, Christoph;2412;2373;2332;26
+1353;Montoliu Cervero, Francisco;2412;2327;2301;26
+1354;Braun, Christian;2412;2334;2420;36
+1355;Sarrau, Jelle;2412;2392;2437;34
+1356;Bijaoui, Manuel;2412;2436;2404;37
+1357;Bryant, John Daniel;2412;2455;2455;31
+1358;Cherniaev, Alexander;2412;2354;2612;53
+1359;Gunnarsson, Arnar;2412;2371;2365;44
+1360;Koziak, Vitali;2412;2305;2308;47
+1361;Malakhov, Igor;2412;2381;2326;33
+1362;Maris, Ivo;2412;-1;-1;27
+1363;Mirzaev, Aziz;2412;2266;2415;24
+1364;Rasmussen, Karsten;2412;2429;-1;57
+1365;Shinkevich, Vitaly;2412;2371;2393;40
+1366;Ezat, Mohamed;2411;2395;2386;44
+1367;Pasti, Aron;2411;2224;2080;16
+1368;Garrido Outon, Alex;2411;1960;2131;17
+1369;Psyk, Radoslaw;2411;2269;2241;20
+1370;Petkidis, Anthony;2411;2350;2422;28
+1371;Ben Ari, Yannay;2411;2160;2194;18
+1372;Saric, Sinisa;2411;2407;2435;41
+1373;Bricard, Emmanuel;2411;2418;2407;56
+1374;Cioara, Andrei-Nestor;2411;2321;2282;51
+1375;Cruz Ravina, Francisco Javier;2411;2335;-1;42
+1376;Fedorowicz, John;2411;-1;-1;64
+1377;Haast, Mark;2411;-1;2221;31
+1378;Kilgus, Georg;2411;2392;2269;46
+1379;Lalic, Bogdan;2411;2441;2539;58
+1380;Lauber, Arnd;2411;2421;2351;46
+1381;Licznerski, Lukasz;2411;2431;2403;27
+1382;Netzer, Jean;2411;-1;-1;35
+1383;Pirverdiyev, Agil;2411;2508;2343;26
+1384;Pogosyan, Stefan;2411;2449;2413;18
+1385;Seeman, Tarvo;2411;2341;2301;53
+1386;Tian, Eddy;2411;-1;2192;16
+1387;Maltsevskaya, Aleksandra;2410;2181;2283;19
+1388;Bwalya, Gillan;2410;2301;2331;34
+1389;Arslanov, Shamil;2410;2363;2338;30
+1390;Becking, Stephan;2410;-1;2296;43
+1391;Bitan, Banerjee;2410;-1;2437;29
+1392;Grishchenko, Sergey;2410;2349;2391;38
+1393;Krishnater Kushager;2410;1936;1869;20
+1394;Neelotpal, Das;2410;2338;2427;40
+1395;Norowitz, Yaacov;2410;2462;2412;40
+1396;Sjodahl, Pontus;2410;2468;2410;51
+1397;Smolen, Jan;2410;2452;2413;38
+1398;Song, Michael;2410;2426;2274;23
+1399;Wehmeier, Stefan, Dr.;2410;-1;2258;52
+1400;Perez Mitjans, Orelvis;2409;2431;2384;46
+1401;Tempone, Marcelo;2409;2433;2446;60
+1402;Ostrovskiy, Aleksandr;2409;2385;2340;26
+1403;Brynell, Stellan;2409;2353;2483;60
+1404;Campos Moreno, Javier B.;2409;2404;2402;63
+1405;Lianes Garcia, Marcos;2409;2223;2310;20
+1406;Sopur, Lech;2409;2258;2295;49
+1407;Vlachos, Anatole;2409;2286;2360;20
+1408;Damjanovic, Vuk;2409;2092;2371;16
+1409;Kilpatrick, Callum;2409;2321;2351;30
+1410;Krastev, Alexander;2409;-1;-1;17
+1411;Kuderinov, Kirill;2409;2441;2447;35
+1412;Martinez Romero, Martin;2409;2385;2410;27
+1413;Mohammad Fahad, Rahman;2409;2291;2323;19
+1414;Sawlin, Leonid;2409;2340;2412;23
+1415;Sipila, Vilka;2409;2416;2329;35
+1416;Smirnov, Timofey;2409;2386;2320;22
+1417;Sutormin, Danila;2409;2371;2354;25
+1418;Tekeyev, Zaur;2409;2423;2415;27
+1419;Gusain, Himal;2408;2319;2307;29
+1420;Kantsler, Boris;2408;2310;2405;60
+1421;Msellek, Ilyass;2408;2293;2219;24
+1422;Merario Alarcon, Andres;2408;2256;2328;26
+1423;Baenziger, Fabian;2408;2219;2324;20
+1424;Jens, Jelmer;2408;-1;-1;40
+1425;Kalinitschew, Sergey;2408;2374;2368;66
+1426;Rubio Mejia, Luis Ignacio;2408;2294;2379;32
+1427;Bittencourt, Jorge;2408;2397;-1;41
+1428;Bon, Michael;2408;2324;-1;41
+1429;Chernyshov, Konstantin;2408;2488;-1;55
+1430;McDonald, Neil;2408;2406;2374;55
+1431;Sammed Jaykumar, Shete;2408;2081;2253;23
+1432;Scekic, Milos;2408;-1;-1;45
+1433;Sreeshwan Maralakshikari;2408;2070;1882;16
+1434;Vlasenko, Miroslav;2408;2384;2304;38
+1435;Xu, Minghui;2408;2339;2226;23
+1436;Yelisieiev, Yevhenii;2408;2244;2123;24
+1437;Zhao, Chenxi;2408;2178;2255;20
+1438;Sanchez Alvarez, Roberto Carlos;2407;2409;2395;35
+1439;Gilevych, Artem;2407;2513;2410;29
+1440;Lopez Silva, Hugo;2407;2423;2493;38
+1441;Ssegwanyi, Arthur;2407;2328;2267;34
+1442;Di Benedetto, Edoardo;2407;2152;2189;20
+1443;Pogromsky, Mikhail;2407;2403;2389;34
+1444;Erdogdu, Mert;2407;2342;2485;43
+1445;Injac, Teodora;2407;2188;2264;22
+1446;Ivekovic, Bozidar;2407;2356;2390;26
+1447;Jackson, James P;2407;2265;2174;31
+1448;Jugelt, Tobias;2407;2428;2403;47
+1449;Mijovic, Stefan;2407;2383;2264;34
+1450;Nguyen, Van Huy;2407;2426;2443;37
+1451;Piesik, Piotr;2407;2351;2232;32
+1452;Popov, Sinisa S;2407;-1;-1;50
+1453;Salvador, Roland;2407;2471;-1;40
+1454;Stanojoski, Zvonko;2407;2406;2364;58
+1455;Sukandar, Irine Kharisma;2407;2411;2293;29
+1456;Tereick, Benjamin;2407;-1;2395;32
+1457;Martin Duque, Jesus;2406;2326;2243;26
+1458;Cori T;2406;2300;2350;28
+1459;Golubka, Petro;2406;2448;2392;33
+1460;Bratovic, Blaz;2406;2295;2360;37
+1461;Bures, Jaroslav;2406;2390;2263;29
+1462;Berebora, Ferenc;2406;-1;-1;56
+1463;D'Amore, Carlo;2406;2452;2478;58
+1464;Dobrovoljc, Vid;2406;2249;2205;22
+1465;El Adnani, Mokliss;2406;2428;2388;39
+1466;Guo Qi;2406;2446;2338;26
+1467;Meribanov, Vitaly;2406;2312;2228;28
+1468;Milanovic, Danilo;2406;2451;2494;48
+1469;Shankovskyi, Andrii;2406;2210;2269;35
+1470;Tahay, Alexis;2406;2310;2161;25
+1471;Tsesarsky, Ilya;2406;-1;-1;63
+1472;Van Oosterom, Chiel;2406;-1;-1;34
+1473;Vidal Zamora, Alex;2406;2212;-1;28
+1474;Vitier Vazquez, Cristian;2406;-1;2376;29
+1475;Wedberg, Tom;2406;2424;-1;69
+1476;Dableo, Ronald;2405;2318;2374;43
+1477;Daneshvar, Bardiya;2405;2286;2295;16
+1478;Girya, Olga;2405;2337;2275;30
+1479;Gaehwiler, Gabriel;2405;2375;2383;28
+1480;Gschnitzer, Adrian;2405;2333;2294;23
+1481;Baron Rodriguez, Jesus;2405;-1;-1;43
+1482;Ginsburg, Gennadi;2405;2496;2425;51
+1483;Halvax, Georg;2405;2359;2403;29
+1484;Karp, Ilya;2405;2363;2378;34
+1485;Leiva, Gianmarco;2405;2349;2328;27
+1486;Sandalakis, Angelos;2405;2456;2363;34
+1487;Zagorskis, Darius;2405;2350;2416;53
+1488;Stearman, Josiah;2404;2286;2402;19
+1489;Valdes Romero, Leonardo;2404;2432;2497;47
+1490;Bodo, Norbert;2404;-1;2440;47
+1491;Askarov, Bakhtiyar;2404;2316;2370;40
+1492;Braga, Fernando;2404;2414;2334;64
+1493;Hess, Max;2404;2385;2304;25
+1494;Hoang, Canh Huan;2404;2266;2325;37
+1495;Krupenski, Juri;2404;2348;2334;40
+1496;Lahaye, Rick;2404;-1;2315;39
+1497;Oussedik, Mahfoud;2404;2202;2245;30
+1498;Perez Gormaz, Matias;2404;2321;2352;29
+1499;Petrisor, Adrian-Marian;2404;2395;2347;30
+1500;Shagbazyan, Taron;2404;2461;2510;28
+1501;Wegerle, Joerg;2404;2413;2518;37
+1502;Zamengo, Fulvio;2404;2302;2277;24
+1503;Garcia, Jan Emmanuel;2403;2350;2411;27
+1504;Hoffman, Alejandro;2403;2507;2443;56
+1505;Garcia Palermo, Carlos;2403;2388;2421;69
+1506;Liang, Jason;2403;1799;1976;15
+1507;Pacan-Milej, Kosma;2403;2145;2198;20
+1508;Hansen, Mads;2403;-1;-1;29
+1509;Zatonskih, Anna;2403;2295;2329;43
+1510;Altini, Nicola;2403;2438;2325;27
+1511;Bjelobrk, Igor;2403;2381;2356;40
+1512;Cuijpers, Frans Andre;2403;-1;-1;60
+1513;Djurhuus, Rune;2403;2335;-1;52
+1514;Duboue, Peio;2403;2243;-1;29
+1515;Garcia Padron, Jose;2403;2303;2358;64
+1516;Garcia, Jhoel;2403;2234;2258;34
+1517;Heimann, Mark;2403;-1;-1;29
