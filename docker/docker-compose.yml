@@ -1,42 +1,56 @@
 version: '3.9'
 # version: '3'
+
+
+networks:
+  hazelcast:
+    ipam:
+      config:
+        - subnet: 10.0.0.1/29
+
 services:
   hazelcast_1:
     container_name: hz1
     image: hazelcast/hazelcast:5.0.2-slim
-    profiles: ["full"]
+    profiles: [ "full" ]
     environment:
       # - PATH="/opt/hazelcast/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
       # - HZ_HOME="/opt/hazelcast"
       # - CLASSPATH_DEFAULT="/opt/hazelcast/*"
       # - JAVA_OPTS_DEFAULT="-Djava.net.preferIPv4Stack=true -XX:MaxRAMPercentage=80.0 -XX:MaxGCPauseMillis=5"
       # - PROMETHEUS_CONFIG="/opt/hazelcast/config/jmx_agent_config.yaml"
-      - HAZELCAST_CONFIG="config-custom/hazelcast-docker.xml"
+      - HAZELCAST_CONFIG=/opt/hazelcast/config-custom/hazelcast-docker.xml
       # - HZ_NETWORK_PUBLICADDRESS=192.168.99.100:5701
       - HZ_NETWORK_RESTAPI_ENABLED=true
     volumes:
       - ./config/:/opt/hazelcast/config-custom/
     ports:
       - "5701:5701"
+    networks:
+      - hazelcast
 
   hazelcast_2:
     container_name: hz2
     image: hazelcast/hazelcast:5.0.2-slim
-    profiles: ["full"]
+    profiles: [ "full" ]
     environment:
       # - PATH="/opt/hazelcast/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
       # - HZ_HOME="/opt/hazelcast"
       # - CLASSPATH_DEFAULT="/opt/hazelcast/*"
       # - JAVA_OPTS_DEFAULT="-Djava.net.preferIPv4Stack=true -XX:MaxRAMPercentage=80.0 -XX:MaxGCPauseMillis=5"
       # - PROMETHEUS_CONFIG="/opt/hazelcast/config/jmx_agent_config.yaml"
-      - HAZELCAST_CONFIG="config-custom/hazelcast-docker.xml"
+      - HAZELCAST_CONFIG=/opt/hazelcast/config-custom/hazelcast-docker.xml
       # - HZ_NETWORK_PUBLICADDRESS=192.168.99.100:5702
       - HZ_NETWORK_RESTAPI_ENABLED=true
     volumes:
       - ./config/:/opt/hazelcast/config-custom/
     ports:
       - "5702:5701"
-  
+    networks:
+      - hazelcast
+    depends_on:
+      - hazelcast_1
+
   management:
     image: hazelcast/management-center:5.0.4
     environment:
@@ -45,3 +59,7 @@ services:
       - MC_ADMIN_PASSWORD=password12
     ports:
       - "8080:8080"
+    networks:
+      - hazelcast
+    depends_on:
+      - hazelcast_2

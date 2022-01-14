@@ -3,6 +3,7 @@ package io.tacsio.hazelcast.config;
 import com.hazelcast.client.HazelcastClient;
 import com.hazelcast.client.config.ClientConfig;
 import com.hazelcast.client.config.ClientNetworkConfig;
+import com.hazelcast.collection.IList;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.map.IMap;
 import io.tacsio.hazelcast.model.ChessPlayer;
@@ -47,8 +48,8 @@ public class HazelcastConfiguration {
     }
 
     @Bean
-    public IMap<String, String> nameMap(HazelcastInstance instance) {
-        return instance.getMap("nameMap");
+    public IList<String> championsList(HazelcastInstance instance) {
+        return instance.getList("champions");
     }
 
     @Bean

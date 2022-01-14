@@ -46,6 +46,21 @@ Os projetos consistem em diversos testes de utilização do Hazelcast.
 
 Estou utilizando um conjuto dados de exadristas e seus respectivos ratings FIDE em partidas classicas, rápidas e blitz (eu montei esse arquivo com dados possivelmente fora da realidade é provavel que alguns ratings estejam incorretos).
 
+Para acessar via API basta seguir essa -tentativa de documentaçao-
+
+| METHOD | PATHS       | ACTION                                                                                                                |
+|--------|-------------|-----------------------------------------------------------------------------------------------------------------------|
+| GET    | /load       | Carrega os dados dos enxadristas e seus respectivos ratings FIDE                                                      |
+| GET    | /count      | Retorna a quantidade de enxadristas carregados                                                                        |
+| GET    | /young      | Retorna todos com idade menor que 21 anos                                                                             |
+| GET    | /name?like= | Retorna todos os enxadristas caso o nome contenha a string do parâmetro like'                                         |
+| GET    | /classic    | Retorna o top 10 jogadores de clásico                                                                                 |
+| GET    | /blitz      | Retorna o top 10 jogadores de blitz (acho que meus dados estão meio tronxos pq não vi o nome do Nakamura nessa lista) |
+
+
+Não coloquei o top em partidas rápidas, pois como diria Danil Dubov...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRDO_WIxKkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### External Hazelcast
 
@@ -56,6 +71,14 @@ Como o cluster aqui é externo é necessário executar o docker-compose no profi
 ```bash
 COMPOSE_PROFILES=full docker-compose up -d
 ```
+
+
+Neste projeto tem um controller extra. Apenas para testar a lista do hazelcast [que não aparecec no management center]
+
+| METHOD | PATHS    | ACTION                                                                        |
+|--------|----------|-------------------------------------------------------------------------------|
+| GET    | /lol     | Retorna a lista de todos os campeões cadastrados                              |
+| GET    | /lol/new | Gera um campeão de League of Legends e adiciona na lista Hazelcast ditribuída |
 
 
 
