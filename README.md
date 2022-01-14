@@ -23,7 +23,7 @@ O Hazelcast é uma plataforma de computação e storage distribuído.
 
 ## Management Center
 
-Na nova versão do Hazelcast (Hazelcast Platform) a interface de gerenciamento dos clusters é realizada através de uma aplicação extra. [1][management]
+Na nova versão do Hazelcast (Hazelcast Platform) a interface de gerenciamento dos clusters é realizada através de uma aplicação extra. [[1]][management]
 
 Para iniciar essa aplicação, basta executar o comando abaixo:
 
@@ -89,7 +89,7 @@ Nesse projeto tive de fazer 2 configurações fora do default na ferramenta para
 
 1. O primeiro ponto é no próprio projeto Java. Tive de adicionar uma configuração extra no client adicionando as classes do projeto que seriam armazenadas no Hazelcast (o projeto quebrava na serialização).
 
-O Hazelcast consegue serializar normalmente vários tipos da linguagem, para ele entender novos Tipos existem diversas formas, desde utilizar interfaces de serialização próprias a criar objetos 'portable'. Além de permitir que o servidor aceite deployment de classes e códigos. 
+O Hazelcast consegue serializar normalmente vários tipos da linguagem, para ele entender novos Tipos existem diversas formas, desde utilizar interfaces de serialização próprias a criar objetos 'portable'. Além de permitir que o servidor aceite deployment de classes e códigos. [[2]][serialization]
 
 > Esse tipo de problema não ocorreu no modo embedded
 
@@ -101,7 +101,7 @@ clientConfig.getUserCodeDeploymentConfig()
     .addClass(ChessPlayer.class);
 ```
 
-1. Mesmo configurando no client, como essa feature não vem habilitada é preciso configurar a instância do Hazelcast Server para aceitar definições de classes do meu projeto, por isso existe um arquivo docker/config/hazelcast-config.xml que é basicamente a configuração padrão (existente no container do Hazelcast) acrescentando o seguinte bloco extra:
+2. Mesmo configurando no client, como essa feature não vem habilitada é preciso configurar a instância do Hazelcast Server para aceitar definições de classes do meu projeto, por isso existe um arquivo docker/config/hazelcast-config.xml que é basicamente a configuração padrão (existente no container do Hazelcast) acrescentando o seguinte bloco extra:
 
 ```xml
 <user-code-deployment enabled="true">
