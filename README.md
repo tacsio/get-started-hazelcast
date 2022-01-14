@@ -7,13 +7,13 @@
 	Hazelcast ⚡
 </h4>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tacsio/hazelcast?color=%2331acbf)
-![GitHub language count](https://img.shields.io/github/languages/count/tacsio/hazelcast?color=%2331acbf)
-![GitHub top language](https://img.shields.io/github/languages/top/tacsio/hazelcast?color=%2331acbf)
-![GitHub last commit](https://img.shields.io/github/last-commit/tacsio/hazelcast?color=%2331acbf)
-[![GitHub issues](https://img.shields.io/github/issues-raw/tacsio/hazelcast?color=%2331acbf)](https://github.com/tacsio/hazelcast/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/tacsio/hazelcast?color=%2331acbf)](https://github.com/tacsio/hazelcast/graphs/contributors)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tacsio/hazelcast?color=%2331acbf)](https://github.com/tacsio/hazelcast/graphs/commit-activity)
+![GitHub repo size](https://img.shields.io/github/repo-size/tacsio/hazelcast-lab?color=%2331acbf)
+![GitHub language count](https://img.shields.io/github/languages/count/tacsio/hazelcast-lab?color=%2331acbf)
+![GitHub top language](https://img.shields.io/github/languages/top/tacsio/hazelcast-lab?color=%2331acbf)
+![GitHub last commit](https://img.shields.io/github/last-commit/tacsio/hazelcast-lab?color=%2331acbf)
+[![GitHub issues](https://img.shields.io/github/issues-raw/tacsio/hazelcast-lab?color=%2331acbf)](https://github.com/tacsio/hazelcast-lab/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/tacsio/hazelcast-lab?color=%2331acbf)](https://github.com/tacsio/hazelcast-lab/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tacsio/hazelcast-lab?color=%2331acbf)](https://github.com/tacsio/hazelcast-lab/graphs/commit-activity)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022?color=%2331acbf)
 
 
