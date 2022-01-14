@@ -6,6 +6,7 @@ import com.hazelcast.client.config.ClientNetworkConfig;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.map.IMap;
 import io.tacsio.hazelcast.model.ChessPlayer;
+import io.tacsio.hazelcast.model.Rating;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -22,9 +23,16 @@ public class HazelcastConfiguration {
 
     @Bean
     public ClientConfig clientConfig(ClientNetworkConfig networkConfig) {
-        return new ClientConfig()
+        ClientConfig clientConfig = new ClientConfig()
                 .setClusterName("dev")
                 .setNetworkConfig(networkConfig);
+
+        clientConfig.getUserCodeDeploymentConfig()
+                .setEnabled(true)
+                .addClass(Rating.class)
+                .addClass(ChessPlayer.class);
+
+        return clientConfig;
     }
 
     @Bean
