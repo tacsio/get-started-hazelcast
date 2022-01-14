@@ -61,7 +61,7 @@ Para acessar via API basta seguir essa -tentativa de documentaçao-
 
 Não coloquei o top em partidas rápidas, pois como diria Danil Dubov...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRDO_WIxKkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/GRDO_WIxKkE/default.jpg)](https://youtu.be/GRDO_WIxKkE)
 
 ### External Hazelcast
 
