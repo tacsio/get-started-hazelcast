@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringEmbeddedHazelcastApplication {
+public class SpringDataHazelcastApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringEmbeddedHazelcastApplication.class, args);
+        SpringApplication.run(SpringDataHazelcastApplication.class, args);
     }
 }
 

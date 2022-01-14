@@ -19,6 +19,7 @@
 
 ## Hazelcast
 
+O Hazelcast é uma plataforma de computação e storage distribuído.
 
 ## Management Center
 
@@ -81,10 +82,56 @@ Neste projeto tem um controller extra. Apenas para testar a lista do hazelcast [
 | GET    | /lol/new | Gera um campeão de League of Legends e adiciona na lista Hazelcast ditribuída |
 
 
+> Configurações fora do caminho feliz:
+
+Nesse projeto tive de fazer 2 configurações fora do default na ferramenta para funcionar do modo que eu queria.
+
+
+1. O primeiro ponto é no próprio projeto Java. Tive de adicionar uma configuração extra no client adicionando as classes do projeto que seriam armazenadas no Hazelcast (o projeto quebrava na serialização).
+
+O Hazelcast consegue serializar normalmente vários tipos da linguagem, para ele entender novos Tipos existem diversas formas, desde utilizar interfaces de serialização próprias a criar objetos 'portable'. Além de permitir que o servidor aceite deployment de classes e códigos. 
+
+> Esse tipo de problema não ocorreu no modo embedded
+
+
+```java
+clientConfig.getUserCodeDeploymentConfig()
+    .setEnabled(true)
+    .addClass(Rating.class)
+    .addClass(ChessPlayer.class);
+```
+
+1. Mesmo configurando no client, como essa feature não vem habilitada é preciso configurar a instância do Hazelcast Server para aceitar definições de classes do meu projeto, por isso existe um arquivo docker/config/hazelcast-config.xml que é basicamente a configuração padrão (existente no container do Hazelcast) acrescentando o seguinte bloco extra:
+
+```xml
+<user-code-deployment enabled="true">
+    <class-cache-mode>ETERNAL</class-cache-mode>
+    <provider-mode>LOCAL_AND_CACHED_CLASSES</provider-mode>
+</user-code-deployment>
+```
+
 
 ### Hazelcast Embbeded
 
-### Hazelcast Embbeded (Spring Library)
+Esta versão tem as funcionalidades básicas descritas na sessão Projetos, porém utiliza o hazelcast embbeded (não é necessário executar o docker-compose com as instâncias de hazelcast)
+
+O ponto interessante aqui é que é necessário criar a configuração do Hazelcast Member (server), inclusive as opções de rede para que, caso novas instâncias de Hazelcast sejam encontradas, elam ingreesem automaticamente no cluster
+
+```java
+@Bean
+public Config hazelcastConfig(NetworkConfig networkConfig,
+                              ManagementCenterConfig managementCenterConfig,
+                              Map<String, CacheSimpleConfig> cacheConfigs) {
+    return new Config()
+            .setClusterName("dev")
+            .setNetworkConfig(networkConfig)
+            .setManagementCenterConfig(managementCenterConfig)
+            .setCacheConfigs(cacheConfigs)
+            ;
+}
+```
+
+### Spring Data Hazelcast
 
 Essa versão surgiu inicialmente para testar o básico do starter do Hazelcast para o Spring Boot.
 
@@ -111,20 +158,20 @@ Teoricamente bastaria adicionar a dependência do hazelcast-spring que ao execut
 </dependency>
 ``` 
 
-Nesse projeto não utilizei algumas features da integração com o Spring Boot (que foi originalmente o objetivo desse sub-projeto).
-
+TODO: Este projeto ainda está em construção 
 
 
 ## Referências
 
 [[1] - Hazelcast Management Center][management]
+[[2] - Serialization][serialization]
 
 
 [hazelcast]: https://docs.hazelcast.com/hazelcast/latest/index.html
 [imdg]: https://docs.hazelcast.com/imdg/latest/
 [jet]: https://jet-start.sh/docs/get-started/intro
 [management]: https://docs.hazelcast.com/management-center/latest/getting-started/install
-
+[serialization]: https://docs.hazelcast.com/hazelcast/latest/serialization/serialization
 
 [mc_1]: https://github.com/tacsio/hazelcast-lab/raw/main/.github/mc_1.png
 [mc_2]: https://github.com/tacsio/hazelcast-lab/raw/main/.github/mc_2.png

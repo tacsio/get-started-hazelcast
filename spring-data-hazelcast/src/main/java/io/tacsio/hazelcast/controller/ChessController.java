@@ -22,7 +22,6 @@ import java.util.stream.Collectors;
 
 @RestController
 public class ChessController {
-
     @Autowired
     private IMap<String, ChessPlayer> playersMap;
 

@@ -25,7 +25,6 @@ public class HazelcastConfiguration {
     public Config hazelcastConfig(NetworkConfig networkConfig,
                                   ManagementCenterConfig managementCenterConfig,
                                   Map<String, CacheSimpleConfig> cacheConfigs) {
-
         return new Config()
                 .setClusterName("dev")
                 .setNetworkConfig(networkConfig)

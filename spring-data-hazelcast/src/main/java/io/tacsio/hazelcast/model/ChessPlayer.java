@@ -72,4 +72,6 @@ public class ChessPlayer implements Serializable, Comparable<ChessPlayer> {
     public void setRatings(Set<Rating> ratings) {
         this.ratings = ratings;
     }
+
+
 }

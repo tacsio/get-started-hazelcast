@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.tacsio</groupId>
-    <artifactId>hazelcast</artifactId>
+    <artifactId>spring-external-hazelcast</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hazelcast</name>
-    <description>Demo project for Spring Boot integrated with hazelcast</description>
+    <name>spring-external-hazelcast</name>
+    <description>Demo project for Spring Boot integrated with existing hazelcast instances</description>
     <properties>
         <java.version>11</java.version>
     </properties>
