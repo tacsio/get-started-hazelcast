@@ -3,7 +3,7 @@
 </h1>
 
 
-<h4 align="center"> 
+<h4 align="center">
 	Hazelcast ⚡
 </h4>
 
@@ -33,7 +33,7 @@ docker-compose up -d
 Ele irá inicializar o management-center na porta *8080* e o usuário e senha 'default' será:
 
 > username: admin
-> 
+>
 > password: password12
 
 ![mc_1][mc_1]
@@ -61,7 +61,7 @@ Para acessar via API basta seguir essa -tentativa de documentaçao-
 
 Não coloquei o top em partidas rápidas, pois como diria Danil Dubov...
 
-[![Watch the video](https://img.youtube.com/vi/GRDO_WIxKkE/default.jpg)](https://youtu.be/GRDO_WIxKkE)
+[![Watch the video](https://img.youtube.com/vi/i9eo02nzPRg/default.jpg)](https://youtu.be/i9eo02nzPRg)
 
 ### External Hazelcast
 
@@ -145,7 +145,7 @@ Teoricamente bastaria adicionar a dependência do hazelcast-spring que ao execut
   <artifactId>hazelcast-spring</artifactId>
   <version>5.0.2</version>
 </dependency>
-``` 
+```
 
 > Para usar já a versão correta, tive que adicionar também a blibloteca padrão do hazelcast.
 
@@ -156,9 +156,9 @@ Teoricamente bastaria adicionar a dependência do hazelcast-spring que ao execut
   <artifactId>hazelcast</artifactId>
   <version>5.0.2</version>
 </dependency>
-``` 
+```
 
-TODO: Este projeto ainda está em construção 
+TODO: Este projeto ainda está em construção
 
 
 ## Referências
